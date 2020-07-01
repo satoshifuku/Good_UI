@@ -1,7 +1,6 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Good UI
+title: Good UI | A blog theme for Jekyll
+description: Good UI is a web seite to share products which has good user interface.
 tags:
   - blog
   - template
@@ -18,5 +17,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+# email: youremail@test.com
+# disqus_username: disqus_username
