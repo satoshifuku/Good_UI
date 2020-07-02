@@ -2,19 +2,19 @@ name: Good UI
 title: Good UI | A blog theme for Jekyll
 description: Good UI is a web seite to share products which has good user interface.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  # - blog
+  # - template
+  # - jekyll
+  # - theme
+  # - netlify
 show_hero: true
 menu:
   - title: Home
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
+  # - title: Contact
+  #   url: /contact
   # - title: Feed
   #   url: /feed.xml
 # email: youremail@test.com
