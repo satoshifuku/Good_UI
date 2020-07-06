@@ -9,6 +9,7 @@ category: blog
 tags:
   - Signifier
   - Mapping
+  - Affordance
 author: Satoshifuku
 paginate: false
 ---
