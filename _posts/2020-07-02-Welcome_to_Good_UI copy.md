@@ -14,5 +14,5 @@ author: Satoshifuku
 paginate: false
 ---
 
-## Welcome page
+## Welcome to Good UI
 
