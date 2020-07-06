@@ -1,8 +1,8 @@
 ---
-date: 2020-07-02T 9:26:40
+date: 2020-07-07T 9:26:40
 layout: post
-title: Welcome to Good UI
-subtitle: 'Sharing good user interfaces'
+title: Discover, share, and learn a good user interface.
+subtitle: 'Good UI is a project to share a good user interface and learn why it is good, with people.'
 description: >-
 image: assets/img/posts/2020-07-02-welcome_to_good_ui.jpg
 # optimized_image: assets/img/posts/2020-07-02-welcome_to_good_ui.jpg
