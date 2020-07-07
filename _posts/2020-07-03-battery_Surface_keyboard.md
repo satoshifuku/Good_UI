@@ -21,7 +21,7 @@ paginate: false
 
 ## Mapping:
 
-1. The convex in the case(in the front of the image) implies that you connect a plus side of the battery to it. In addition, the concave implies you connect a plus side of the battery on it.
+1. The convex in the case(in the front of the image) implies that you connect a minus side of the battery to it. In addition, the concave implies you connect a plus side of the battery on it.
 
 ## Affordance
 
