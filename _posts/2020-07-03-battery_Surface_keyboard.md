@@ -17,11 +17,11 @@ paginate: false
 
 ## Signifier:
 
-1. The convex in the case(in the front of the image) implies that you connect a plus side of the battery to it. In addition, the concave implies you connect a plus side of the battery on it.
+1. Illustration of an AAA battery showes correct orientation on the bottom of the case.
 
 ## Mapping:
 
-1. Illustration of an AAA battery showes correct orientation on the bottom of the case.
+1. The convex in the case(in the front of the image) implies that you connect a plus side of the battery to it. In addition, the concave implies you connect a plus side of the battery on it.
 
 ## Affordance
 
