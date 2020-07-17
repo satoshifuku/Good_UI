@@ -15,3 +15,13 @@ This web site use [Jekflix](https://github.com/thiagorossener/jekflix-template) 
 >sudo bundle exec jekyll serve
 
 2. Browse to [http://127.0.0.1:4000/Good_UI/](http://127.0.0.1:4000/Good_UI/) on your browser.
+
+
+### Creating new post 
+
+Run the commant to create a new post:
+
+> ./initpost.sh -c "Your_Post_Title"
+<!-- >wsl bash ./initpost.sh -c "Your_Post_Title" -->
+
+If You want to know detail, Check the [Post in jekflix](https://github.com/thiagorossener/jekflix-template/wiki/post#front-matter-properties)
