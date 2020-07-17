@@ -14,23 +14,22 @@ tags:
 author: Satoshifuku
 paginate: false
 ---
+
 ## What is Microsoft Surface keyboard
 
 The Microsoft Surface Keyboard is a wireless keyboard for a computer.
-Wireless means the keyboard needs supply electricity by a battery.
-The keyboard uses two AAA batteries, which are inserted into the back of the keyboard(See the image).
+Wireless implies the keyboard needs supply electricity by a battery.
+The keyboard uses two AAA batteries, which are set into the half-cylinder on the back of the keyboard(See the image).
+The half-cylinder is useful and Good UI for a user to set the batteries into it.
 
 ## Signifier
 
-An illustration of the blue AAA batteries drawn on the bottom of the cylinder shows correct orientation on the bottom of the case.
-Thanks of the illustration, a user can insert the batteries correctly.
+The illustration of blue batteries on the bottom of the half-cylinder clearly shows that how many batteries need.
 
-## Mapping
+The metal convex( in the front of the image) and metal concave( in the back of the image) on the circle-wall implies that you connect the convex to minus side and the concave to plus one in the battery.
+As a result, The convex and concave prevent a rule-based mistake in which a user plans a wrong orientation of the batteries.
 
-1. The convex in the case(in the front of the image) implies that you connect a minus side of the battery to it. In addition, the concave implies you connect a plus side of the battery on it.
 
 ## Affordance
 
-The volume of the case shows the size and number of batteries.
-
-
+The volume of the half-cylinder shows the relationship betwenn it and batteries in the sizes, shapes and number of batteries.
