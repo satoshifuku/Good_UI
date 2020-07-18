@@ -11,7 +11,7 @@ tags:
   - Signifier
   - Mapping
   - Affordance
-author: Satoshifuku
+author: satoshifuku
 paginate: false
 ---
 
