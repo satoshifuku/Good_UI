@@ -5,6 +5,7 @@ title: EASY TO USE IH STOVE
 subtitle: Simple operation and Clear layout
 description: >-
 image: assets/img/posts/EASY_TO_USE_IH_STOVE/image1.jpg
+category: Post
 tags: 
   - アフォード
   -  文化的制約

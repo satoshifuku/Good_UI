@@ -5,6 +5,7 @@ title: gaming mouse
 subtitle: Smart speakers from everyday devices
 description: >-
 image: assets/img/posts/Good_UI_gaming_mouse/image1.jpg
+category: Post
 tags: 
   - 文化的制約
   -  フィードバック

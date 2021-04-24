@@ -5,6 +5,7 @@ title: Horizontal Electronic key
 subtitle: UI to prevent mistransmission.
 description: >-
 image: assets/img/posts/Good_UI_of_Horizontal_Electronic_key/image1.jpg
+category: Post
 tags: 
   - スリップ。
 paginate: false

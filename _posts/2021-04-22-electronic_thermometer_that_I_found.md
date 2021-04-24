@@ -5,6 +5,7 @@ title: Good UI of electronic thermometer
 subtitle: Impact of GoodUI
 description: >-
 image: assets/img/posts/Introduction_of_Good_UI_of_electronic_thermometer_that_I_found/image1.jpg
+category: Post
 tags: 
   - シグニファイア
   - フィードバック

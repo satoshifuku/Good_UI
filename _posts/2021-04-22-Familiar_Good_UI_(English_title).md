@@ -5,6 +5,7 @@ title: Familiar Good UI (English title)
 subtitle: A container used in the bathroom
 description: >-
 image: assets/img/posts/Familiar_Good_UI_(English_title)/image1.jpg
+category: Post
 tags: 
   - 物理的制約
   -  シグニファイア

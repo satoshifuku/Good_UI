@@ -5,6 +5,7 @@ title: Surface Pro Type Cover
 subtitle: Simple design that shows you natural reactions with a magnet
 description: >-
 image: assets/img/posts/Surface_Pro_Type_Cover/image1.jpg
+category: Post
 tags: 
   - Signifier
   -  Design constrains

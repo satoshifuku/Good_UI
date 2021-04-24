@@ -5,6 +5,7 @@ title: Radio(For vehicle)
 subtitle: Prevents errors even with sudden operation. A device that does not make a mistake.
 description: >-
 image: assets/img/posts/GOOD_UI_of_Radio(For_vehicle)/image1.jpg
+category: Post
 paginate: false
 ---
 

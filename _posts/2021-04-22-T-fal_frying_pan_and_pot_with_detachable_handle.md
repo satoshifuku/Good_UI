@@ -5,6 +5,7 @@ title: T-fal frying pan and pot with detachable handle
 subtitle: Detaching the handle makes it easier to handle.
 description: >-
 image: assets/img/posts/T-fal_frying_pan_and_pot_with_detachable_handle/image1.png
+category: Post
 tags: 
   - アフォーダンス
   -  記憶の類似性

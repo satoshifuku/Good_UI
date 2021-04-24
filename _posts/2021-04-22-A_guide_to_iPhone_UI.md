@@ -3,6 +3,7 @@ date: 2021-04-22T 9:00:00
 layout: post
 title: A guide to iPhone UI
 image: assets/img/posts/A_guide_to_iPhone_UI/image1.jpg
+category: Post
 tags: 
   - 意味的な制約
   -  シグニファイア

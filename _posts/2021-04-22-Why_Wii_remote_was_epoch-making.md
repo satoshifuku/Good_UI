@@ -5,6 +5,7 @@ title: Why Wii remote was epoch-making
 subtitle: What is Game controller is accepted by many people?
 description: >-
 image: assets/img/posts/Why_Wii_remote_was_epoch-making/image1.jpg
+category: Post
 author: Hisui
 paginate: false
 ---

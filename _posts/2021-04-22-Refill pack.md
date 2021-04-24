@@ -1,10 +1,11 @@
 ---
 date: 2021-04-22T 9:00:00
 layout: post
-title: Electric kettle
+title: Refill pack
 subtitle: 絶対にこぼれない詰め替えの工夫
 description: >-
-image: assets/img/posts/Introduction_of_Electric_kettle/image1.jpg
+image: assets/img/posts/Refill_pack/image1.jpg
+category: Post
 tags: 
   - 行動レベル
   -  文化的制約

@@ -5,6 +5,7 @@ title: It adds good value in your life
 subtitle: It adds good value in your life.
 description: >-
 image: assets/img/posts/It_adds_good_value_in_your_life/image1.jpg
+category: Post
 author: B5
 paginate: false
 ---

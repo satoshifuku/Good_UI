@@ -5,6 +5,7 @@ title: BATHROOM FAUCET
 subtitle: Safe and easy to understand operability
 description: >-
 image: assets/img/posts/BATHROOM_FAUCET/image1.jpg
+category: Post
 tags: 
   - アフォーダンス
   -  文化的制約

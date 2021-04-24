@@ -5,6 +5,7 @@ title: The Detergent For The Washing
 subtitle: To the stylish and smart world !
 description: >-
 image: assets/img/posts/Good_UI_The_Detergent_For_The_Washing/image1.jpg
+category: Post
 author: Yu
 paginate: false
 ---

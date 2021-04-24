@@ -5,6 +5,7 @@ title: an Introduction of an Electric kettle
 subtitle: The message hidden in scale
 description: >-
 image: assets/img/posts/Good_UI_an_Introduction_of_an_Electric_kettle/image1.jpg
+category: Post
 tags: 
   - 1.2L
 author: hyuga

@@ -5,6 +5,7 @@ title: traffic light
 subtitle: Traffic lights control traffic on the road. The design has excellent visibility to prevent traffic accidents.
 description: >-
 image: assets/img/posts/Good_UI_of_traffic_light/image1.jpg
+category: Post
 author: Natsu
 paginate: false
 

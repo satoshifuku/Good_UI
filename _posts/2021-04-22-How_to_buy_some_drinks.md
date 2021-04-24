@@ -5,6 +5,7 @@ title: How to buy some drinks
 subtitle: We can get some drinks easily
 description: >-
 image: assets/img/posts/How_to_buy_some_drinks/image1.jpg
+category: Post
 tags: 
   - アフォード
   -  シグニファイア

@@ -5,12 +5,13 @@ title: A cockpit 50 series late Prius
 subtitle: Cockpit that even unfamiliar people can quickly understand how to set
 description: >-
 image: assets/img/posts/A_cockpit_50_series_late_Prius/image1.jpg
+category: Post
 tags: 
   - 対応付け
   -  文化的制約
   -  物理的制約
   -  目視要らずの操作
-author: Maeda Tatsuya
+author: Maeda_tatsuya
 paginate: false
 ---
 
