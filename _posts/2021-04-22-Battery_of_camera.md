@@ -3,6 +3,7 @@ date: 2021-04-22T 9:00:00
 layout: post
 title: Battery of camera
 image: assets/img/posts/Battery_of_camera/image1.jpg
+category: Post
 tags: 
   - 入れる方向を間違えない
 author: Shippitsu Taro

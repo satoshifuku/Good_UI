@@ -5,6 +5,7 @@ title: What is a washlet (English title)
 subtitle: Clean your body and mind (English subtitle)
 description: >-
 image: assets/img/posts/What_is_a_washlet_(English_title)/image1.jpg
+category: Post
 tags: 
   - シグニファイア
   - 物理的制約

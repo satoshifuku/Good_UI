@@ -5,6 +5,7 @@ title: Flick input convenience
 subtitle: You can type in a moment!
 description: >-
 image: assets/img/posts/Flick_input_convenience/image1.jpg
+category: Post
 tags: 
   - 入力時のシグナファイア
   -  エラーの起こりにくさ

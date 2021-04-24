@@ -5,6 +5,7 @@ title: English vocabulary learning app “mikan”
 subtitle: English vocabulary learning app with excellent learning feedback
 description: >-
 image: assets/img/posts/English_vocabulary_learning_app_“mikan”/image1.jpg
+category: Post
 tags: 
   - 対応付け
   -  フィードバック

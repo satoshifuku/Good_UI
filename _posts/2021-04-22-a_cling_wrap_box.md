@@ -5,6 +5,7 @@ title: a cling wrap box
 subtitle: Sophisticated UI for cutting cling wrap
 description: >-
 image: assets/img/posts/Introduction_for_a_cling_wrap_box/image1.jpg
+category: Post
 tags: 
   - シグニファイア
   -  フィードバック

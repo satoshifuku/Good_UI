@@ -5,6 +5,7 @@ title: hiding in the Elevator
 subtitle: Open? or Close?
 description: >-
 image: assets/img/posts/Good_UI_hiding_in_the_Elevator/image1.jpg
+category: Post
 tags: 
   - MentalModel
   -  []#_Hlk47907825 .anchorSignifier

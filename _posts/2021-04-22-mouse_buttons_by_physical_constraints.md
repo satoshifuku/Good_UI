@@ -3,6 +3,7 @@ date: 2021-04-22T 9:00:00
 layout: post
 title: Mouse buttons by physical constraints
 image: assets/img/posts/Induction_of_mouse_buttons_by_physical_constraints/image1.png
+category: Post
 paginate: false
 ---
 

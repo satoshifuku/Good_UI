@@ -5,6 +5,7 @@ title: Resent devises
 subtitle: Smart speakers from everyday devices
 description: >-
 image: assets/img/posts/Good_UI_for_Resent_devises/image1.jpg
+category: Post
 tags: 
   - アフォーダンス
   - シグニファイア 

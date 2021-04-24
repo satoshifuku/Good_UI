@@ -3,6 +3,7 @@ date: 2021-04-22T 9:00:00
 layout: post
 title: table clock
 image: assets/img/posts/table_clock/image1.jpg
+category: Post
 tags: 
   - 物理的制約
   -  エラー検出

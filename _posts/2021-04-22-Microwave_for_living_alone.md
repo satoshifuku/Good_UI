@@ -5,6 +5,7 @@ title: Microwave for living alone
 subtitle: You can warm up in the microwave by simple operation
 description: >-
 image: assets/img/posts/Microwave_for_living_alone/image1.jpg
+category: Post
 tags: 
   - つまみの位置には意味がある
   - 電子レンジの扱いやすさ

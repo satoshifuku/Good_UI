@@ -5,6 +5,7 @@ title: Remote control for LED ceiling light
 subtitle: Allowing to turn on the light in the dark.
 description: >-
 image: assets/img/posts/Remote_control_for_LED_ceiling_light/image1.png
+category: Post
 tags: 
   - アフォーダンス
   -  シグニファイア

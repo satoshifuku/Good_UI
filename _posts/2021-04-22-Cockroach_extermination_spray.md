@@ -5,6 +5,7 @@ title: Cockroach extermination spray
 subtitle: Safety, easy to use, and effective.
 description: >-
 image: assets/img/posts/Cockroach_extermination_spray/image1.jpg
+category: Post
 tags: 
   - 対応付け
   -  フィードバック

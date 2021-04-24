@@ -3,6 +3,7 @@ date: 2021-04-22T 9:00:00
 layout: post
 title: Lighting control device by sound and color
 image: assets/img/posts/Lighting_control_device_by_sound_and_color/image1.png
+category: Post
 tags: 
   - 意味的制約
   - フィードバック

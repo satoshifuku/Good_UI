@@ -5,6 +5,7 @@ title: A magnet in Microsoft Surface Pen
 subtitle: Good design of the use of magnetic force
 description: >-
 image: assets/img/posts/A_magnet_in_Microsoft_Surface_Pen/image1.jpg
+category: Post
 tags: 
   - Signifier
   -  Design constrain

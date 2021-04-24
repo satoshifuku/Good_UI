@@ -5,6 +5,7 @@ title: Signifier inheritance
 subtitle: A difference with the concept model
 description: >-
 image: assets/img/posts/Signifier_inheritance/image1.jpg
+category: Post
 author: おしょー（osho-）
 paginate: false
 ---

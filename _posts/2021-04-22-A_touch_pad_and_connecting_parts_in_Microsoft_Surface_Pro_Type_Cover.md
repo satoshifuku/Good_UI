@@ -5,6 +5,7 @@ title: A touch pad and connecting parts in Microsoft Surface Pro Type Cover
 subtitle: Simple design that shows you natural reactions with a magnet
 description: >-
 image: assets/img/posts/A_touch_pad_and_connecting_parts_in_Microsoft_Surface_Pro_Type_Cover/image1.jpg
+category: Post
 tags: 
   - Signifier
   -  Design constrains

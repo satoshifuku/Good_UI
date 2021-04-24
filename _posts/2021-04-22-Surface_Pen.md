@@ -5,6 +5,7 @@ title: Surface Pen
 subtitle: Good design of the use of magnetic force
 description: >-
 image: assets/img/posts/Surface_Pen/image1.jpg
+category: Post
 tags: 
   - Signifier
   -  Design constrain

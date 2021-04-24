@@ -5,6 +5,7 @@ title: electronic fan
 subtitle: About Simple Design, Affordability & Signifier
 description: >-
 image: assets/img/posts/Good_UI_for_electronic_fan/image1.jpg
+category: Post
 tags: 
   - アフォーダンスとシグニファイア
   -  自然な対応付け

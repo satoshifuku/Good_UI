@@ -5,6 +5,7 @@ title: The superior UI of the iPhone
 subtitle: A seamless design in an inconspicuous place.
 description: >-
 image: assets/img/posts/The_superior_UI_of_the_iPhone/image1.jpg
+category: Post
 tags: 
   - シンプルさと強力さの両立
 author: Tsuruzawa A4

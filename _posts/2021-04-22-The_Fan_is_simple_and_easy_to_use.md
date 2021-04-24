@@ -5,6 +5,7 @@ title: The Fan is simple and easy to use
 subtitle: A You can use it just with your feeling.
 description: >-
 image: assets/img/posts/The_Fan_is_simple_and_easy_to_use/image1.jpg
+category: Post
 tags: 
   - シグニファイア
   -  概念モデル

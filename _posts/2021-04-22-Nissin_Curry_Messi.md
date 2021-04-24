@@ -3,6 +3,7 @@ date: 2021-04-22T 9:00:00
 layout: post
 title: Nissin Curry Messi
 image: assets/img/posts/Nissin_Curry_Messi/image1.png
+category: Post
 tags: 
   - エラー
   - シグニファイア

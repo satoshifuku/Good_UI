@@ -5,6 +5,7 @@ title: UI of Pen & Touch Tablet
 subtitle: 
 description: >-
 image: assets/img/posts/Introduction_of_Good_UI/image1.jpg
+category: Post
 tags: 
   - アフォード
   - フィードバック

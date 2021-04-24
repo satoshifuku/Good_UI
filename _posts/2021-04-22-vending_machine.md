@@ -5,6 +5,7 @@ title: vending machine
 subtitle: A machine that allows you to buy drinks if you pay. The design makes full use of visual information and feedback.
 description: >-
 image: assets/img/posts/Good_UI_for_vending_machine/image1.jpg
+category: Post
 tags: 
   - シグニファイア
   -  対応付け
