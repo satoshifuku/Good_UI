@@ -1,7 +1,7 @@
 ---
 date: 2021-04-22T 9:00:00
 layout: post
-title: Good UI of electronic thermometer
+title: Electronic thermometer
 subtitle: Impact of GoodUI
 description: >-
 image: assets/img/posts/Introduction_of_Good_UI_of_electronic_thermometer_that_I_found/image1.jpg
@@ -9,7 +9,6 @@ category: Post
 tags: 
   - シグニファイア
   - フィードバック
-  - 
 author: 耳木兎
 paginate: false
 ---
@@ -33,8 +32,3 @@ UIです。
 
 ### 本体の表裏
  電子体温計は、シンメトリであって、暗い中に表裏がどちらであるか分かりにくくなっているものが多いです。しかし、ケースが存在することによりケースから出し入れする際にしまう向きが固定されていることやくぼみの有無によって、表裏を確認することが可能です。
-
-### フォーマット
- 
-
-英字は游明朝でかな文字は游ゴシックを使っています。
