@@ -11,7 +11,6 @@ tags:
   -  記憶の類似性
   -  シグニファイア
   -  意味的制約
-  - 
 author: Chicken Curry
 paginate: false
 ---
