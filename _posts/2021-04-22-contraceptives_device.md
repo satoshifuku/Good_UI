@@ -1,7 +1,7 @@
 ---
 date: 2021-04-22T 9:00:00
 layout: post
-title: contraceptives device
+title: Contraceptives device
 subtitle: Direct package Signifier.
 description: >-
 image: assets/img/posts/Good_UI_of_contraceptives_device/image1.jpg
@@ -12,15 +12,10 @@ paginate: false
 
 ### スゴうす
 JEXのコンドーム、避妊具
-
 一般的なものと同様に避妊、エイズを含む性感染症の予防するものである。
-
 Amazonでも12個×3箱が1000円ほどで購入できる安価な製品。
-
 大体の薬局には揃えてあるような定番商品。
-
 1000、1500、2000とグレードがあり、数字が大きくなるほど値段も高めになっている.
-
 この箱の中のパッケージには女性側、男性側(表裏)の表示がある。これがあるコンドームもあるにはあるのだが、これが一番見やすいと思ったのと身近にあったという理由でこの「スゴうす」を紹介する。
 
 ### 適確なシグニファイア
