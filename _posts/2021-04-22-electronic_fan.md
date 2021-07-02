@@ -1,7 +1,7 @@
 ---
 date: 2021-04-22T 9:00:00
 layout: post
-title: electronic fan
+title: Electronic fan
 subtitle: About Simple Design, Affordability & Signifier
 description: >-
 image: assets/img/posts/Good_UI_for_electronic_fan/image1.jpg
@@ -9,15 +9,12 @@ category: Post
 tags: 
   - アフォーダンスとシグニファイア
   -  自然な対応付け
-  - 
 author: Tazune Rirei
 paginate: false
 ---
 
 ### 製品名 An electric fan from Forest Life
 近年発売されている扇風機には，本来の機能に加えて様々な機能が搭載されているものが多い．しかし，それらが本来の機能を阻害している可能性も存在すると考える．今回紹介する扇風機は，本来の機能である「風を起こす」「タイマー機能」のみを搭載した非常にシンプルな構造の扇風機である．
-
- 
 
 ### アフォーダンスとシグニファイア
 この製品のUIで優れていると思われる点は，アフォーダンスとシグニファイアがしっかりと示せている点だと考える．スイッチはボタン式であり，「押すことでその装置を動かせるまたは停止できる」ことが分かりやすくなっている．また，ボタン下には強・中・弱と表記されており，どれがどの風量のボタンなのかを示すことで利用者の認識を助けている．
