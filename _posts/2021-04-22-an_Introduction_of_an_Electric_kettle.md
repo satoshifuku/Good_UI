@@ -1,7 +1,7 @@
 ---
 date: 2021-04-22T 9:00:00
 layout: post
-title: an Introduction of an Electric kettle
+title: An Introduction of an Electric kettle
 subtitle: The message hidden in scale
 description: >-
 image: assets/img/posts/Good_UI_an_Introduction_of_an_Electric_kettle/image1.jpg
