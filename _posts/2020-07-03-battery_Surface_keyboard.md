@@ -32,4 +32,4 @@ As a result, The convex and concave prevent a rule-based mistake in which a user
 
 ## Affordance
 
-The volume of the half-cylinder shows the relationship betwenn it and batteries in the sizes, shapes and number of batteries.
+The shape of the half-cylinder shows the relationship betwenn it and batteries in the sizes, shapes and number of batteries.
