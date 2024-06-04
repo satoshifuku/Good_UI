@@ -5,7 +5,7 @@ title: Un uncomfortable chair
 subtitle: Why chairs in the station are uncomfortable to sit
 description: >-
 image: assets/img/posts/Un_uncomfortable_chair/Un_uncomfortable_chair.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Un_uncomfortable_chair/Un_uncomfortable_chair_resized_thumbnail.JPG
 category: blog
 tags: 
 author: Kotomi

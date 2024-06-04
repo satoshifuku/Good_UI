@@ -5,6 +5,7 @@ title: The charm that was hidden from a driver set
 subtitle: A wide variety of bits for any screw hole
 description: >-
 image: assets/img/posts/The_charm_that_was_hidden_from_a_driver_set/image1.png
+optimized_image: assets/img/posts/The_charm_that_was_hidden_from_a_driver_set/image1_resized_thumbnail.png
 category: Post
 tags: 
   - 物理的制約

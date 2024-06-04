@@ -5,7 +5,7 @@ title: Children's Pencils and Pencil Sharpener
 subtitle: Stationery for infants to elementary school students
 description: >-
 image: assets/img/posts/Childrens_Pencils_and_Pencil_Sharpener/Childrens_Pencils_and_Pencil_Sharpener.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Childrens_Pencils_and_Pencil_Sharpener/Childrens_Pencils_and_Pencil_Sharpener_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Keichi Hanada

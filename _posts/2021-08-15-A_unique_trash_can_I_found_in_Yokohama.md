@@ -5,7 +5,7 @@ title: A unique trash can I found in Yokohama.
 subtitle: About the shape of the hole in the resource waste
 description: >-
 image: assets/img/posts/A_unique_trash_can_I_found_in_Yokohama/A_unique_trash_can_I_found_in_Yokohama.JPG
-optimized_image: 
+optimized_image: assets/img/posts/A_unique_trash_can_I_found_in_Yokohama/A_unique_trash_can_I_found_in_Yokohama_resized_thumbnail.JPG
 category: blog
 tags: 
 author: otemoto

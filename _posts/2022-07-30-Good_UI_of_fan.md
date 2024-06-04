@@ -5,7 +5,7 @@ title: Good UI of fan
 subtitle: very good fan
 description: >-
 image: assets/img/posts/Good_UI_of_fan/Good_UI_of_fan.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Good_UI_of_fan/Good_UI_of_fan_resized_thumbnail.jpg
 category: blog
 tags: 
 author: furuitskoten

@@ -5,7 +5,7 @@ title: Self-made extension cord
 subtitle: Designed without relying on vision
 description: >-
 image: assets/img/posts/Self-made_extension_cord/Self-made_extension_cord.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Self-made_extension_cord/Self-made_extension_cord_resized_thumbnail.jpg
 category: blog
 tags: 
 author: mako

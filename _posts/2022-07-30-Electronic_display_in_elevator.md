@@ -5,7 +5,7 @@ title: Electronic display in elevator
 subtitle: Good UI for feedback
 description: >-
 image: assets/img/posts/Electronic_display_in_elevator/Electronic_display_in_elevator.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Electronic_display_in_elevator/Electronic_display_in_elevator_resized_thumbnail.jpg
 category: blog
 tags: 
 author: iiiii

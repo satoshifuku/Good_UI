@@ -5,7 +5,7 @@ title: Design of tabletop panels in restaurants
 subtitle: Features of tabletop panels discovered through lectures
 description: >-
 image: assets/img/posts/Design_of_tabletop_panels_in_restaurants/Design_of_tabletop_panels_in_restaurants.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Design_of_tabletop_panels_in_restaurants/Design_of_tabletop_panels_in_restaurants_resized_thumbnail.JPG
 category: blog
 tags: 
 author: sanefuji

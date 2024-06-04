@@ -5,7 +5,7 @@ title: Design because it does not hurt the eyes of household light hair remover
 subtitle: Sophisticated design of optical hair remover that emits strong light
 description: >-
 image: assets/img/posts/Design_because_it_does_not_hurt_the_eyes_of_household_light_hair_remover/Design_because_it_does_not_hurt_the_eyes_of_household_light_hair_remover.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Design_because_it_does_not_hurt_the_eyes_of_household_light_hair_remover/Design_because_it_does_not_hurt_the_eyes_of_household_light_hair_remover_resized_thumbnail.jpg
 category: blog
 tags: 
 author: tetsu

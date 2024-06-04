@@ -5,7 +5,7 @@ title: Right hand mousu
 subtitle: GUI introduction
 description: >-
 image: assets/img/posts/Right_hand_mousu/Right_hand_mousu.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Right_hand_mousu/Right_hand_mousu_resized_thumbnail.jpg
 category: blog
 tags: 
 author: ky

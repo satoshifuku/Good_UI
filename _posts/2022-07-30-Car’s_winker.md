@@ -5,7 +5,7 @@ title: Car’s winker
 subtitle: Easy-to-understand winker
 description: >-
 image: assets/img/posts/Car’s_winker/Car’s_winker.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Car’s_winker/Car’s_winker_resized_thumbnail.jpg
 category: blog
 tags: 
 author: kig

@@ -5,7 +5,7 @@ title: 2WAY steam curling iron
 subtitle: It is easy for the user to use
 description: >-
 image: assets/img/posts/2WAY_steam_curling_iron/2WAY_steam_curling_iron.jpg
-optimized_image: 
+optimized_image: assets/img/posts/2WAY_steam_curling_iron/2WAY_steam_curling_iron_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Ayumi Tsukiyama

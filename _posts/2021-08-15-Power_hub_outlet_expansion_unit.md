@@ -5,7 +5,7 @@ title: Power hub outlet expansion unit
 subtitle: Perfect correspondence
 description: >-
 image: assets/img/posts/Power_hub_outlet_expansion_unit/Power_hub_outlet_expansion_unit.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Power_hub_outlet_expansion_unit/Power_hub_outlet_expansion_unit_resized_thumbnail.jpg
 category: blog
 tags: 
 author: mako

@@ -5,7 +5,7 @@ title: Simple tissue case with no features
 subtitle: Think about tissue cases.
 description: >-
 image: assets/img/posts/Simple_tissue_case_with_no_features/Simple_tissue_case_with_no_features.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Simple_tissue_case_with_no_features/Simple_tissue_case_with_no_features_resized_thumbnail.jpg
 category: blog
 tags: 
 author: mikan.

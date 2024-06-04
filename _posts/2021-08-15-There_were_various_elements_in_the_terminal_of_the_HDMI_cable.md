@@ -5,7 +5,7 @@ title: There were various elements in the terminal of the HDMI cable
 subtitle: The same can be said for the terminals of other cables.
 description: >-
 image: assets/img/posts/There_were_various_elements_in_the_terminal_of_the_HDMI_cable/There_were_various_elements_in_the_terminal_of_the_HDMI_cable.jpg
-optimized_image: 
+optimized_image: assets/img/posts/There_were_various_elements_in_the_terminal_of_the_HDMI_cable/There_were_various_elements_in_the_terminal_of_the_HDMI_cable_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Syoma

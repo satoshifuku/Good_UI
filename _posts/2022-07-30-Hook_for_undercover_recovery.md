@@ -5,7 +5,7 @@ title: Hook for undercover recovery
 subtitle: Leading to the Principle of Leverage
 description: >-
 image: assets/img/posts/Hook_for_undercover_recovery/Hook_for_undercover_recovery.png
-optimized_image: 
+optimized_image: assets/img/posts/Hook_for_undercover_recovery/Hook_for_undercover_recovery_resized_thumbnail.png
 category: blog
 tags: 
 author: Harumaki Teapot

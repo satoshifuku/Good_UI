@@ -5,7 +5,7 @@ title: drying machine
 subtitle: drying machine
 description: >-
 image: assets/img/posts/drying_machine/drying_machine.jpg
-optimized_image: 
+optimized_image: assets/img/posts/drying_machine/drying_machine_resized_thumbnail.jpg
 category: blog
 tags: 
 author: KINO

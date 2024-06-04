@@ -5,7 +5,7 @@ title: Wireless earphones that make you habitual to use
 subtitle: Wireless earphones that are easy to clean up and fit snugly.
 description: >-
 image: assets/img/posts/Wireless_earphones_that_make_you_habitual_to_use/Wireless_earphones_that_make_you_habitual_to_use.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Wireless_earphones_that_make_you_habitual_to_use/Wireless_earphones_that_make_you_habitual_to_use_resized_thumbnail.jpg
 category: blog
 tags: 
 author: 23j

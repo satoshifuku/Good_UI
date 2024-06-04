@@ -5,7 +5,7 @@ title: Frixion ball
 subtitle: Frixion ball slim 038
 description: >-
 image: assets/img/posts/Frixion_ball/Frixion_ball.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Frixion_ball/Frixion_ball_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Nanami

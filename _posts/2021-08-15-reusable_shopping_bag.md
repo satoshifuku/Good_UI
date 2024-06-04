@@ -5,7 +5,7 @@ title: reusable shopping bag
 subtitle: affordance for Miniaturization
 description: >-
 image: assets/img/posts/reusable_shopping_bag/reusable_shopping_bag.png
-optimized_image: 
+optimized_image: assets/img/posts/reusable_shopping_bag/reusable_shopping_bag_resized_thumbnail.png
 category: blog
 tags: 
 author: kawata

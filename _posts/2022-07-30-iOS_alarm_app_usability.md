@@ -5,7 +5,7 @@ title: iOS alarm app usability
 subtitle: In comparison to that of Android
 description: >-
 image: assets/img/posts/iOS_alarm_app_usability/iOS_alarm_app_usability.jpg
-optimized_image: 
+optimized_image: assets/img/posts/iOS_alarm_app_usability/iOS_alarm_app_usability_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Alpaca

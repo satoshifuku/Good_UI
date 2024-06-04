@@ -5,7 +5,7 @@ title: Car alarm sound
 subtitle: The car will sound an alarm to warn you of the danger.
 description: >-
 image: assets/img/posts/Car_alarm_sound/Car_alarm_sound.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Car_alarm_sound/Car_alarm_sound_resized_thumbnail.jpg
 category: blog
 tags: 
 author: tetsu

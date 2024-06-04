@@ -5,7 +5,7 @@ title: Eye drops that are easy to use
 subtitle: Eye drops heal our eyes. This time, I focused on the shape of eye drops.
 description: >-
 image: assets/img/posts/Eye_drops_that_are_easy_to_use/Eye_drops_that_are_easy_to_use.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Eye_drops_that_are_easy_to_use/Eye_drops_that_are_easy_to_use_resized_thumbnail.JPG
 category: blog
 tags: 
 author: yuto

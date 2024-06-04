@@ -5,7 +5,7 @@ title: water server machine
 subtitle: The way to prevent unsuitable and dangerous behavior 
 description: >-
 image: assets/img/posts/water_server_machine/water_server_machine.JPG
-optimized_image: 
+optimized_image: assets/img/posts/water_server_machine/water_server_machine_resized_thumbnail.JPG
 category: blog
 tags: 
 author: Nazuna Mitani

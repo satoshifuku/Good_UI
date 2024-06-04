@@ -5,7 +5,7 @@ title: PET bottle
 subtitle: You can see at a glance that it is safe and easy to use
 description: >-
 image: assets/img/posts/PET_bottle/PET_bottle.jpg
-optimized_image: 
+optimized_image: assets/img/posts/PET_bottle/PET_bottle_resized_thumbnail.jpg
 category: blog
 tags: 
 author: kig

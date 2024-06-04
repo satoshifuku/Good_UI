@@ -5,7 +5,7 @@ title: About Auto Lock's smartphone app
 subtitle: Excellent feedback and resulting benefits
 description: >-
 image: assets/img/posts/About_Auto_Locks_smartphone_app/About_Auto_Locks_smartphone_app.JPG
-optimized_image: 
+optimized_image: assets/img/posts/About_Auto_Locks_smartphone_app/About_Auto_Locks_smartphone_app_resized_thumbnail.JPG
 category: blog
 tags: 
 author: zumiodeath

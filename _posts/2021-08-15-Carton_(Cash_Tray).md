@@ -5,7 +5,7 @@ title: Carton (Cash Tray)
 subtitle: A product is a plate used to pay money in supermarket. The design make easy to use by the constraints and signs.
 description: >-
 image: assets/img/posts/Carton_(Cash_Tray)/Carton_(Cash_Tray).jpg
-optimized_image: 
+optimized_image: assets/img/posts/Carton_(Cash_Tray)/Carton_(Cash_Tray)_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Shoki Harada

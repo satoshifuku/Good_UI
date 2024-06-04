@@ -4,8 +4,8 @@ layout: post
 title: Washing machine
 subtitle: More convenient your washing
 description: >-
-image: assets/img/posts/Washing_machine/Washing_machine.jpeg
-optimized_image: 
+image: assets/img/posts/Washing_machine/Washing_machine.jpg
+optimized_image: assets/img/posts/Washing_machine/Washing_machine_resized_thumbnail.jpg
 category: blog
 tags: 
 author: nan

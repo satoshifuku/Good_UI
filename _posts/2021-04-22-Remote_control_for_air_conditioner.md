@@ -5,6 +5,7 @@ title: Remote control for air conditioner
 subtitle: Easy-to-use remote control user interface
 description: >-
 image: assets/img/posts/Remote_control_for_air_conditioner/image1.jpg
+optimized_image: assets/img/posts/Remote_control_for_air_conditioner/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - フィードバック

@@ -5,7 +5,7 @@ title: Breakthrough sound eye drops
 subtitle: Revolutionary cap opening and closing
 description: >-
 image: assets/img/posts/Breakthrough_sound_eye_drops/Breakthrough_sound_eye_drops.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Breakthrough_sound_eye_drops/Breakthrough_sound_eye_drops_resized_thumbnail.jpg
 category: blog
 tags: 
 author: ttt

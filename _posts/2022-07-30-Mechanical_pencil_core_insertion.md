@@ -5,7 +5,7 @@ title: Mechanical pencil core insertion
 subtitle: The wonder that does not spill over
 description: >-
 image: assets/img/posts/Mechanical_pencil_core_insertion/Mechanical_pencil_core_insertion.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Mechanical_pencil_core_insertion/Mechanical_pencil_core_insertion_resized_thumbnail.jpg
 category: blog
 tags: 
 author: FEY

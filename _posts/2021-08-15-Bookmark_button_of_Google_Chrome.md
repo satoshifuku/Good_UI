@@ -5,7 +5,7 @@ title: Bookmark button of Google Chrome
 subtitle: Good function to store our favorite web sites
 description: >-
 image: assets/img/posts/Bookmark_button_of_Google_Chrome/Bookmark_button_of_Google_Chrome.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Bookmark_button_of_Google_Chrome/Bookmark_button_of_Google_Chrome_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Koki

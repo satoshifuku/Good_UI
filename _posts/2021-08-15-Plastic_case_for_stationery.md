@@ -5,7 +5,7 @@ title: Plastic case for stationery
 subtitle: This product is a case developed to store stationery. There is a suction cup on the bottom.
 description: >-
 image: assets/img/posts/Plastic_case_for_stationery/Plastic_case_for_stationery.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Plastic_case_for_stationery/Plastic_case_for_stationery_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Shida

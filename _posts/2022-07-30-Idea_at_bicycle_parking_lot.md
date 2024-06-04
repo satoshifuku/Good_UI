@@ -5,7 +5,7 @@ title: Idea at bicycle parking lot
 subtitle: Tapes that make us park a bicycle in good alignment
 description: >-
 image: assets/img/posts/Idea_at_bicycle_parking_lot/Idea_at_bicycle_parking_lot.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Idea_at_bicycle_parking_lot/Idea_at_bicycle_parking_lot_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Alpaca

@@ -5,7 +5,7 @@ title: Time-limited parking
 subtitle: easy to use design
 description: >-
 image: assets/img/posts/Time-limited_parking/Time-limited_parking.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Time-limited_parking/Time-limited_parking_resized_thumbnail.jpg
 category: blog
 tags: 
 author: POTAPOTA-CHAN

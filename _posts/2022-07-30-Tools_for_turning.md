@@ -5,7 +5,7 @@ title: Tools for "turning"
 subtitle: hidden constraint
 description: >-
 image: assets/img/posts/Tools_for_turning/Tools_for_turning.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Tools_for_turning/Tools_for_turning_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Koki　Yoshida

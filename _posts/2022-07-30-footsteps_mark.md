@@ -5,7 +5,7 @@ title: footsteps mark
 subtitle: affordance for stopping
 description: >-
 image: assets/img/posts/footsteps_mark/footsteps_mark.jpg
-optimized_image: 
+optimized_image: assets/img/posts/footsteps_mark/footsteps_mark_resized_thumbnail.jpg
 category: blog
 tags: 
 author: haRu

@@ -5,7 +5,7 @@ title: Nintendo switch's controller
 subtitle: Great device that can be operated intuitively
 description: >-
 image: assets/img/posts/Nintendo_switchs_controller/Nintendo_switchs_controller.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Nintendo_switchs_controller/Nintendo_switchs_controller_resized_thumbnail.jpg
 category: blog
 tags: 
 author: tom

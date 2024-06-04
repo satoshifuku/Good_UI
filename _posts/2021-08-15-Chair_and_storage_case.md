@@ -5,7 +5,7 @@ title: Chair and storage case
 subtitle: Two ways to use 
 description: >-
 image: assets/img/posts/Chair_and_storage_case/Chair_and_storage_case.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Chair_and_storage_case/Chair_and_storage_case_resized_thumbnail.jpg
 category: blog
 tags: 
 author: ryoma

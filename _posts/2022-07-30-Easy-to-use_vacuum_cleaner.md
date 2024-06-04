@@ -5,7 +5,7 @@ title: Easy-to-use vacuum cleaner
 subtitle: Vacuum cleaner that teaches you how to use
 description: >-
 image: assets/img/posts/Easy-to-use_vacuum_cleaner/Easy-to-use_vacuum_cleaner.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Easy-to-use_vacuum_cleaner/Easy-to-use_vacuum_cleaner_resized_thumbnail.jpg
 category: blog
 tags: 
 author: haru

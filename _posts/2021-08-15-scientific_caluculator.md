@@ -5,7 +5,7 @@ title: scientific caluculator
 subtitle: easier control by Correspondence
 description: >-
 image: assets/img/posts/scientific_caluculator/scientific_caluculator.jpg
-optimized_image: 
+optimized_image: assets/img/posts/scientific_caluculator/scientific_caluculator_resized_thumbnail.jpg
 category: blog
 tags: 
 author: kawata

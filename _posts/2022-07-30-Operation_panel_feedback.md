@@ -5,7 +5,7 @@ title: Operation panel feedback
 subtitle: To know the condition of the bathroom
 description: >-
 image: assets/img/posts/Operation_panel_feedback/Operation_panel_feedback.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Operation_panel_feedback/Operation_panel_feedback_resized_thumbnail.JPG
 category: blog
 tags: 
 author: Shuta

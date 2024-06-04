@@ -5,7 +5,7 @@ title: Thread-cutting scissors
 subtitle: Restrictions for safety considerations
 description: >-
 image: assets/img/posts/Thread-cutting_scissors/Thread-cutting_scissors.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Thread-cutting_scissors/Thread-cutting_scissors_resized_thumbnail.jpg
 category: blog
 tags: 
 author: iiiii

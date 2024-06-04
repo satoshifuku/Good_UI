@@ -5,6 +5,7 @@ title: Refill pack
 subtitle: 絶対にこぼれない詰め替えの工夫
 description: >-
 image: assets/img/posts/Refill_pack/image1.jpg
+optimized_image: assets/img/posts/Refill_pack/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - 行動レベル

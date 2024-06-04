@@ -5,7 +5,7 @@ title: McDonald's paper cup
 subtitle: Meaning of protrusion
 description: >-
 image: assets/img/posts/McDonalds_paper_cup/McDonalds_paper_cup.jpg
-optimized_image: 
+optimized_image: assets/img/posts/McDonalds_paper_cup/McDonalds_paper_cup_resized_thumbnail.jpg
 category: blog
 tags: 
 author: SouzoukouICT

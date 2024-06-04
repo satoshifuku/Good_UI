@@ -5,7 +5,7 @@ title: Mosquito coil
 subtitle: Convenient mosquito coil
 description: >-
 image: assets/img/posts/Mosquito_coil/Mosquito_coil.png
-optimized_image: 
+optimized_image: assets/img/posts/Mosquito_coil/Mosquito_coil_resized_thumbnail.png
 category: blog
 tags: 
 author: good user

@@ -5,7 +5,7 @@ title: Unusual Circulators
 subtitle: Circulators that use sound effectively
 description: >-
 image: assets/img/posts/Unusual_Circulators/Unusual_Circulators.jpeg
-optimized_image: 
+optimized_image: assets/img/posts/Unusual_Circulators/Unusual_Circulators_resized_thumbnail.jpeg
 category: blog
 tags: 
 author: manjiro

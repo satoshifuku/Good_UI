@@ -5,6 +5,7 @@ title: Simple microwave
 subtitle: Minimum required functions
 description: >-
 image: assets/img/posts/Simple_microwave/image1.jpg
+optimized_image: assets/img/posts/Simple_microwave/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - 対応付け

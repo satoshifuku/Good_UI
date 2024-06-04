@@ -5,6 +5,7 @@ title: Compassion of developers for users that can be understood by a mixer
 subtitle: Superior features of the mixer for user safety
 description: >-
 image: assets/img/posts/Compassion_of_developers_for_users_that_can_be_understood_by_a_mixer/image1.png
+optimized_image: assets/img/posts/Compassion_of_developers_for_users_that_can_be_understood_by_a_mixer/image1_resized_thumbnail.png
 category: Post
 tags: 
   - 物理的制約

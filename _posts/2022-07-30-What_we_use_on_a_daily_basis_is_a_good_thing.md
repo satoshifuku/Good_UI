@@ -5,7 +5,7 @@ title: What we use on a daily basis is a good thing
 subtitle: Pedestrian signals with visible changes
 description: >-
 image: assets/img/posts/What_we_use_on_a_daily_basis_is_a_good_thing/What_we_use_on_a_daily_basis_is_a_good_thing.jpg
-optimized_image: 
+optimized_image: assets/img/posts/What_we_use_on_a_daily_basis_is_a_good_thing/What_we_use_on_a_daily_basis_is_a_good_thing_resized_thumbnail.jpg
 category: blog
 tags: 
 author: NOBU

@@ -5,7 +5,7 @@ title: Electric pot (T-fal)
 subtitle: Pour hot water safely
 description: >-
 image: assets/img/posts/Electric_pot_(T-fal)/Electric_pot_(T-fal).jpg
-optimized_image: 
+optimized_image: assets/img/posts/Electric_pot_(T-fal)/Electric_pot_(T-fal)_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Naoki Terasaka

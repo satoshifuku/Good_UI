@@ -5,7 +5,7 @@ title: What is easy of use?(2)
 subtitle: The advantage of being a smartphone app
 description: >-
 image: assets/img/posts/What_is_easy_of_use(2)/What_is_easy_of_use(2).jpg
-optimized_image: 
+optimized_image: assets/img/posts/What_is_easy_of_use(2)/What_is_easy_of_use(2)_resized_thumbnail.jpg
 category: blog
 tags: 
 author: kida

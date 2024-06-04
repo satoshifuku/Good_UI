@@ -5,7 +5,7 @@ title: Roach jet storage
 subtitle: cleaning up using affordance
 description: >-
 image: assets/img/posts/Roach_jet_storage/Roach_jet_storage.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Roach_jet_storage/Roach_jet_storage_resized_thumbnail.JPG
 category: blog
 tags: 
 author: Hamcomer

@@ -5,7 +5,7 @@ title: Semi-self Adjustment machine
 subtitle: I don't know how to use the machine! I forget to take the change..." Here is a good news for you!
 description: >-
 image: assets/img/posts/Semi-self_Adjustment_machine/Semi-self_Adjustment_machine.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Semi-self_Adjustment_machine/Semi-self_Adjustment_machine_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Keichi Hanada

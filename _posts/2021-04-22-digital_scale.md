@@ -5,6 +5,7 @@ title: Digital scale
 subtitle: A simple Good UI around us
 description: >-
 image: assets/img/posts/Introduction_of_digital_scale/image1.jpg
+optimized_image: assets/img/posts/Introduction_of_digital_scale/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - シグニファイア

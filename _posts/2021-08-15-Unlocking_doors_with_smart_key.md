@@ -5,7 +5,7 @@ title: Unlocking doors with smart key
 subtitle: UI that can be used unconsciously
 description: >-
 image: assets/img/posts/Unlocking_doors_with_smart_key/Unlocking_doors_with_smart_key.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Unlocking_doors_with_smart_key/Unlocking_doors_with_smart_key_resized_thumbnail.JPG
 category: blog
 tags: 
 author: MT

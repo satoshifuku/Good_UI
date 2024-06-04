@@ -5,7 +5,7 @@ title: About the tabletop dust removal that I'm hurting if I don't know
 subtitle: Compact and smart
 description: >-
 image: assets/img/posts/About_the_tabletop_dust_removal_that_Im_hurting_if_I_dont_know/About_the_tabletop_dust_removal_that_Im_hurting_if_I_dont_know.jpg
-optimized_image: 
+optimized_image: assets/img/posts/About_the_tabletop_dust_removal_that_Im_hurting_if_I_dont_know/About_the_tabletop_dust_removal_that_Im_hurting_if_I_dont_know_resized_thumbnail.jpg
 category: blog
 tags: 
 author: mako

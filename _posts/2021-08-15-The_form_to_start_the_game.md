@@ -5,7 +5,7 @@ title: The form to start the game
 subtitle: Ease of entertainment
 description: >-
 image: assets/img/posts/The_form_to_start_the_game/The_form_to_start_the_game.jpg
-optimized_image: 
+optimized_image: assets/img/posts/The_form_to_start_the_game/The_form_to_start_the_game_resized_thumbnail.jpg
 category: blog
 tags: 
 author: sen

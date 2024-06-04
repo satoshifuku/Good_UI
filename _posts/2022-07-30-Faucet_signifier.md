@@ -5,7 +5,7 @@ title: Faucet signifier
 subtitle: How to adjust
 description: >-
 image: assets/img/posts/Faucet_signifier/Faucet_signifier.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Faucet_signifier/Faucet_signifier_resized_thumbnail.JPG
 category: blog
 tags: 
 author: Shuta

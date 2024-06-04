@@ -5,7 +5,7 @@ title: The Gate Type of Shoplifter Prevention System
 subtitle: The System Safeguarding The Store’s Property
 description: >-
 image: assets/img/posts/The_Gate_Type_of_Shoplifter_Prevention_System/The_Gate_Type_of_Shoplifter_Prevention_System.jpg
-optimized_image: 
+optimized_image: assets/img/posts/The_Gate_Type_of_Shoplifter_Prevention_System/The_Gate_Type_of_Shoplifter_Prevention_System_resized_thumbnail.jpg
 category: blog
 tags: 
 author: yh

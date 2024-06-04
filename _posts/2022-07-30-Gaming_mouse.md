@@ -5,7 +5,7 @@ title: Gaming mouse
 subtitle: Razer Orochi V2
 description: >-
 image: assets/img/posts/2022-07-30-Gaming_mouse/2022-07-30-Gaming_mouse.jpg
-optimized_image: 
+optimized_image: assets/img/posts/2022-07-30-Gaming_mouse/2022-07-30-Gaming_mouse_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Maguromikan

@@ -5,7 +5,7 @@ title: KOKUYO's Campus Loose-Leaf
 subtitle: A product is a notebook paper that allows us to freely replace the paper. It gives us various signs and supports us to make our notes more beautiful.
 description: >-
 image: assets/img/posts/KOKUYOs_Campus_Loose-Leaf/KOKUYOs_Campus_Loose-Leaf.jpg
-optimized_image: 
+optimized_image: assets/img/posts/KOKUYOs_Campus_Loose-Leaf/KOKUYOs_Campus_Loose-Leaf_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Shoki Harada

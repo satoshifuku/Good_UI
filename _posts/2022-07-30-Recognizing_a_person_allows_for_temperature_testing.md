@@ -5,7 +5,7 @@ title: Recognizing a person allows for temperature testing.
 subtitle: Please face the camera
 description: >-
 image: assets/img/posts/Recognizing_a_person_allows_for_temperature_testing/Recognizing_a_person_allows_for_temperature_testing.jpeg
-optimized_image: 
+optimized_image: assets/img/posts/Recognizing_a_person_allows_for_temperature_testing/Recognizing_a_person_allows_for_temperature_testing_resized_thumbnail.jpeg
 category: blog
 tags: 
 author: R

@@ -5,7 +5,7 @@ title: A door handle
 subtitle: Hidden door handle
 description: >-
 image: assets/img/posts/A_door_handle/A_door_handle.JPG
-optimized_image: 
+optimized_image: assets/img/posts/A_door_handle/A_door_handle_resized_thumbnail.JPG
 category: blog
 tags: 
 author: Kotomi

@@ -5,7 +5,7 @@ title: Washing machine
 subtitle: interested design
 description: >-
 image: assets/img/posts/Washing_machine/Washing_machine.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Washing_machine/Washing_machine_resized_thumbnail.JPG
 category: blog
 tags: 
 author: N

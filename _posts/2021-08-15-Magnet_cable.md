@@ -5,7 +5,7 @@ title: Magnet cable
 subtitle: Cable not to be removed
 description: >-
 image: assets/img/posts/Magnet_cable/Magnet_cable.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Magnet_cable/Magnet_cable_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Renji Iwashita

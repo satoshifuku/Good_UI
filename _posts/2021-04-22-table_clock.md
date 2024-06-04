@@ -3,6 +3,7 @@ date: 2021-04-22T 9:00:00
 layout: post
 title: Table clock
 image: assets/img/posts/table_clock/image1.jpg
+optimized_image: assets/img/posts/table_clock/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - 物理的制約

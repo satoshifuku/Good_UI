@@ -5,7 +5,7 @@ title: Car engine key
 subtitle: The part of starting the car
 description: >-
 image: assets/img/posts/Car_engine_key/Car_engine_key.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Car_engine_key/Car_engine_key_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Naoki Terasaka

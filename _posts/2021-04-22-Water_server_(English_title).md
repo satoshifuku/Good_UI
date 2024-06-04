@@ -5,6 +5,7 @@ title: Water server (English title)
 subtitle: Moisturize your everyday life (English subtitle)
 description: >-
 image: assets/img/posts/Introduction_of_Water_server_(English_title)/image1.jpg
+optimized_image: assets/img/posts/Introduction_of_Water_server_(English_title)/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - シグニファイア

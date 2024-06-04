@@ -5,6 +5,7 @@ title: Self checkout’s Good UI
 subtitle: Anyone can use
 description: >-
 image: assets/img/posts/Self_checkout’s_Good_UI/image1.jpg
+optimized_image: assets/img/posts/Self_checkout’s_Good_UI/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - シグニファイア

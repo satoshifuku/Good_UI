@@ -5,7 +5,7 @@ title: Ingenuity in charging the iPhone
 subtitle: Hidden Aims
 description: >-
 image: assets/img/posts/Ingenuity_in_charging_the_iPhone/Ingenuity_in_charging_the_iPhone.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Ingenuity_in_charging_the_iPhone/Ingenuity_in_charging_the_iPhone_resized_thumbnail.jpg
 category: blog
 tags: 
 author: wakkanai

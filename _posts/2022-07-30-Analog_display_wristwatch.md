@@ -5,7 +5,7 @@ title: Analog display wristwatch
 subtitle: The wristwatch can only be wrapped around the arm.
 description: >-
 image: assets/img/posts/Analog_display_wristwatch/Analog_display_wristwatch.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Analog_display_wristwatch/Analog_display_wristwatch_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Tiffany

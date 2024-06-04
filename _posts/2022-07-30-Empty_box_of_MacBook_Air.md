@@ -5,7 +5,7 @@ title: Empty box of MacBook Air
 subtitle: The secret of this empty box
 description: >-
 image: assets/img/posts/Empty_box_of_MacBook_Air/Empty_box_of_MacBook_Air.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Empty_box_of_MacBook_Air/Empty_box_of_MacBook_Air_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Issei

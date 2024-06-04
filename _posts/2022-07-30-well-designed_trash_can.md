@@ -5,7 +5,7 @@ title: well-designed trash can
 subtitle: affordance for separation of garbage
 description: >-
 image: assets/img/posts/well-designed_trash_can/well-designed_trash_can.jpg
-optimized_image: 
+optimized_image: assets/img/posts/well-designed_trash_can/well-designed_trash_can_resized_thumbnail.jpg
 category: blog
 tags: 
 author: haRu

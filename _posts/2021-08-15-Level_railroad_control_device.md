@@ -5,7 +5,7 @@ title: Level railroad control device
 subtitle: User interface to ensure safety.
 description: >-
 image: assets/img/posts/Level_railroad_control_device/Level_railroad_control_device.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Level_railroad_control_device/Level_railroad_control_device_resized_thumbnail.jpg
 category: blog
 tags: 
 author: kouki

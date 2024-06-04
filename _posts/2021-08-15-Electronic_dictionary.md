@@ -5,7 +5,7 @@ title: Electronic dictionary
 subtitle: This product is a digital dictionary that contains a huge number of words as data. This product is lightweight and easy to carry.
 description: >-
 image: assets/img/posts/Electronic_dictionary/Electronic_dictionary.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Electronic_dictionary/Electronic_dictionary_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Shida

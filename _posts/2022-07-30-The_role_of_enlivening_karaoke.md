@@ -5,7 +5,7 @@ title: The role of enlivening karaoke
 subtitle: Various functions of karaoke equipment
 description: >-
 image: assets/img/posts/The_role_of_enlivening_karaoke/The_role_of_enlivening_karaoke.jpg
-optimized_image: 
+optimized_image: assets/img/posts/The_role_of_enlivening_karaoke/The_role_of_enlivening_karaoke_resized_thumbnail.jpg
 category: blog
 tags: 
 author: mumu

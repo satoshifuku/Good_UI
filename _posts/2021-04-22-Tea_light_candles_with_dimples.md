@@ -5,6 +5,7 @@ title: Tea light candles with dimples
 subtitle: Candles that can be lit safely
 description: >-
 image: assets/img/posts/Tea_light_candles_with_dimples/image1.jpg
+optimized_image: assets/img/posts/Tea_light_candles_with_dimples/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - シグニファイア

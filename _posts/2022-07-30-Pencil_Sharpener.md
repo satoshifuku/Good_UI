@@ -5,7 +5,7 @@ title: Pencil Sharpener
 subtitle: Stationary that even elementary school students can use
 description: >-
 image: assets/img/posts/2022-07-30-Pencil_Sharpener/2022-07-30-Pencil_Sharpener.jpg
-optimized_image: 
+optimized_image: assets/img/posts/2022-07-30-Pencil_Sharpener/2022-07-30-Pencil_Sharpener_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Nishikori

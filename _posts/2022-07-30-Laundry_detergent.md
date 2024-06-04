@@ -5,7 +5,7 @@ title: Laundry detergent
 subtitle: Well-thought-out design
 description: >-
 image: assets/img/posts/Laundry_detergent/Laundry_detergent.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Laundry_detergent/Laundry_detergent_resized_thumbnail.jpg
 category: blog
 tags: 
 author: SHO

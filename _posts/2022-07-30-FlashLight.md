@@ -5,7 +5,7 @@ title: FlashLight
 subtitle: Emergency
 description: >-
 image: assets/img/posts/FlashLight/FlashLight.jpeg
-optimized_image: 
+optimized_image: assets/img/posts/FlashLight/FlashLight_resized_thumbnail.jpeg
 category: blog
 tags: 
 author: hirokiss

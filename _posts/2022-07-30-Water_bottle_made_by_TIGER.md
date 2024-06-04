@@ -5,7 +5,7 @@ title: Water bottle made by TIGER
 subtitle: Easy to hold and open water bottle
 description: >-
 image: assets/img/posts/Water_bottle_made_by_TIGER/Water_bottle_made_by_TIGER.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Water_bottle_made_by_TIGER/Water_bottle_made_by_TIGER_resized_thumbnail.jpg
 category: blog
 tags: 
 author: kikurage

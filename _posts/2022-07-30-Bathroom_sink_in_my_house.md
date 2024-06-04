@@ -5,7 +5,7 @@ title: Bathroom sink in my house
 subtitle: Easier to use and understand
 description: >-
 image: assets/img/posts/Bathroom_sink_in_my_house/Bathroom_sink_in_my_house.png
-optimized_image: 
+optimized_image: assets/img/posts/Bathroom_sink_in_my_house/Bathroom_sink_in_my_house_resized_thumbnail.png
 category: blog
 tags: 
 author: mino

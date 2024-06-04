@@ -5,7 +5,7 @@ title: Easy to measure rice
 subtitle: Not only is it easy to measure rice, but it is also easy to assemble
 description: >-
 image: assets/img/posts/Easy_to_measure_rice/Easy_to_measure_rice.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Easy_to_measure_rice/Easy_to_measure_rice_resized_thumbnail.JPG
 category: blog
 tags: 
 author: Kentaro

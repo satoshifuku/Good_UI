@@ -5,7 +5,7 @@ title: Vending machine GEORGIA CAFE
 subtitle: Easy-to-understand customization menu
 description: >-
 image: assets/img/posts/Vending_machine_GEORGIA_CAFE/Vending_machine_GEORGIA_CAFE.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Vending_machine_GEORGIA_CAFE/Vending_machine_GEORGIA_CAFE_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Sushi

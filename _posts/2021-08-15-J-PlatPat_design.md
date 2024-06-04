@@ -5,7 +5,7 @@ title: J-PlatPat design
 subtitle: Easy to understand website design
 description: >-
 image: assets/img/posts/J-PlatPat_design/J-PlatPat_design.JPG
-optimized_image: 
+optimized_image: assets/img/posts/J-PlatPat_design/J-PlatPat_design_resized_thumbnail.JPG
 category: blog
 tags: 
 author: Tonkatsu

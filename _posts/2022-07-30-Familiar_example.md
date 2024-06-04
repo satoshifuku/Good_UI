@@ -5,7 +5,7 @@ title: Familiar example
 subtitle: Simple and easy to use headphones
 description: >-
 image: assets/img/posts/Familiar_example/Familiar_example.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Familiar_example/Familiar_example_resized_thumbnail.JPG
 category: blog
 tags: 
 author: yy

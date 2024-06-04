@@ -5,7 +5,7 @@ title: Easy of use that overflows around you
 subtitle: Saran wrap
 description: >-
 image: assets/img/posts/Easy_of_use_that_overflows_around_you/Easy_of_use_that_overflows_around_you.png
-optimized_image: 
+optimized_image: assets/img/posts/Easy_of_use_that_overflows_around_you/Easy_of_use_that_overflows_around_you_resized_thumbnail.png
 category: blog
 tags: 
 author: T

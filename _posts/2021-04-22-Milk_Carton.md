@@ -5,6 +5,7 @@ title: Milk Carton
 subtitle: The form is not changing but it is evolving.
 description: >-
 image: assets/img/posts/Good_UI_Milk_Carton/image1.jpg
+optimized_image: assets/img/posts/Good_UI_Milk_Carton/image1_resized_thumbnail.jpg
 category: Post
 author: Yu
 paginate: false

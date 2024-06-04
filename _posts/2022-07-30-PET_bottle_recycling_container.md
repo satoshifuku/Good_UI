@@ -5,7 +5,7 @@ title: PET bottle recycling container
 subtitle: PET bottle recycling container with a cap recycling box
 description: >-
 image: assets/img/posts/PET_bottle_recycling_container/PET_bottle_recycling_container.jpg
-optimized_image: 
+optimized_image: assets/img/posts/PET_bottle_recycling_container/PET_bottle_recycling_container_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Shizumi

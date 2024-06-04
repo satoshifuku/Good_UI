@@ -5,7 +5,7 @@ title: The function of table insertion in Word
 subtitle: How easy to use of the function of table insertion in Word
 description: >-
 image: assets/img/posts/The_function_of_table_insertion_in_Word/The_function_of_table_insertion_in_Word.jpg
-optimized_image: 
+optimized_image: assets/img/posts/The_function_of_table_insertion_in_Word/The_function_of_table_insertion_in_Word_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Yamamoto

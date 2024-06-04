@@ -5,7 +5,7 @@ title: A simple electronic thermometer
 subtitle: Inspired by mercury thermometer
 description: >-
 image: assets/img/posts/A_simple_electronic_thermometer/A_simple_electronic_thermometer.jpg
-optimized_image: 
+optimized_image: assets/img/posts/A_simple_electronic_thermometer/A_simple_electronic_thermometer_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Shizumi

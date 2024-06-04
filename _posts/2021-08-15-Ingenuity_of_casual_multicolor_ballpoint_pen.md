@@ -5,7 +5,7 @@ title: Ingenuity of casual multicolor ballpoint pen
 subtitle: What I took for granted was actually a ingenuity
 description: >-
 image: assets/img/posts/Ingenuity_of_casual_multicolor_ballpoint_pen/Ingenuity_of_casual_multicolor_ballpoint_pen.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Ingenuity_of_casual_multicolor_ballpoint_pen/Ingenuity_of_casual_multicolor_ballpoint_pen_resized_thumbnail.jpg
 category: blog
 tags: 
 author: ri

@@ -5,7 +5,7 @@ title: Printer ink replacement
 subtitle: Illustration on the printer and Relationship with cartridge.
 description: >-
 image: assets/img/posts/Printer_ink_replacement/Printer_ink_replacement.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Printer_ink_replacement/Printer_ink_replacement_resized_thumbnail.JPG
 category: blog
 tags: 
 author: yuto

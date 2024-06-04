@@ -5,7 +5,7 @@ title: The secret of straw drinks
 subtitle: About the ingenuity and UI hidden in the straw drinks you always casually drink
 description: >-
 image: assets/img/posts/The_secret_of_straw_drinks/The_secret_of_straw_drinks.jpg
-optimized_image: 
+optimized_image: assets/img/posts/The_secret_of_straw_drinks/The_secret_of_straw_drinks_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Masashi

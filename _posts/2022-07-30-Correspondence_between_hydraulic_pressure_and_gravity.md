@@ -5,7 +5,7 @@ title: Correspondence between hydraulic pressure and gravity
 subtitle: It seems like you can move it up and down to operate it!
 description: >-
 image: assets/img/posts/Correspondence_between_hydraulic_pressure_and_gravity/Correspondence_between_hydraulic_pressure_and_gravity.png
-optimized_image: 
+optimized_image: assets/img/posts/Correspondence_between_hydraulic_pressure_and_gravity/Correspondence_between_hydraulic_pressure_and_gravity_resized_thumbnail.png
 category: blog
 tags: 
 author: Harumaki Teapot

@@ -5,7 +5,7 @@ title: Remote control system for righting control
 subtitle: Nothing is better than this
 description: >-
 image: assets/img/posts/Remote_control_system_for_righting_control/Remote_control_system_for_righting_control.jpeg
-optimized_image: 
+optimized_image: assets/img/posts/Remote_control_system_for_righting_control/Remote_control_system_for_righting_control_resized_thumbnail.jpeg
 category: blog
 tags: 
 author: nan

@@ -5,7 +5,7 @@ title: Use-up lighter
 subtitle: Good design to unconsciously ensure safety
 description: >-
 image: assets/img/posts/Use-up_lighter/Use-up_lighter.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Use-up_lighter/Use-up_lighter_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Daydreaming

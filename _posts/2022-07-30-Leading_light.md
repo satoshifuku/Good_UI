@@ -5,7 +5,7 @@ title: Leading light
 subtitle: Lights for smooth parking in a multi-storey car park
 description: >-
 image: assets/img/posts/Leading_light/Leading_light.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Leading_light/Leading_light_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Rikuto N

@@ -5,6 +5,7 @@ title: A cockpit 50 series late Prius
 subtitle: Cockpit that even unfamiliar people can quickly understand how to set
 description: >-
 image: assets/img/posts/A_cockpit_50_series_late_Prius/image1.jpg
+optimized_image: assets/img/posts/A_cockpit_50_series_late_Prius/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - 対応付け

@@ -5,7 +5,7 @@ title: Why is the design of PET bottle labels superior?
 subtitle: Characteristics of PET bottle labels discovered through lectures
 description: >-
 image: assets/img/posts/Why_is_the_design_of_PET_bottle_labels_superior/Why_is_the_design_of_PET_bottle_labels_superior.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Why_is_the_design_of_PET_bottle_labels_superior/Why_is_the_design_of_PET_bottle_labels_superior_resized_thumbnail.JPG
 category: blog
 tags: 
 author: sanefuji

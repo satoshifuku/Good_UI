@@ -3,6 +3,7 @@ date: 2021-04-22T 9:00:00
 layout: post
 title: Good spotify
 image: assets/img/posts/Good_spotify/image1.png
+optimized_image: assets/img/posts/Good_spotify/image1_resized_thumbnail.png
 category: Post
 tags: 
   - シグニファイア

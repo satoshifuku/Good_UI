@@ -5,7 +5,7 @@ title: Gaming Mouse
 subtitle: Good device in everyday life
 description: >-
 image: assets/img/posts/Gaming_Mouse/Gaming_Mouse.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Gaming_Mouse/Gaming_Mouse_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Hisame

@@ -5,7 +5,7 @@ title: Good UI of mobile battery
 subtitle: very good product
 description: >-
 image: assets/img/posts/Good_UI_of_mobile_battery/Good_UI_of_mobile_battery.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Good_UI_of_mobile_battery/Good_UI_of_mobile_battery_resized_thumbnail.jpg
 category: blog
 tags: 
 author: fruitskoten

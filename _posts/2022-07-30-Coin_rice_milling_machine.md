@@ -5,7 +5,7 @@ title: Coin rice milling machine
 subtitle:  Agricultural machinery for rice milling
 description: >-
 image: assets/img/posts/Coin_rice_milling_machine/Coin_rice_milling_machine.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Coin_rice_milling_machine/Coin_rice_milling_machine_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Maguromikan

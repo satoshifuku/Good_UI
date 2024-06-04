@@ -5,6 +5,7 @@ title: Surface Pen
 subtitle: Good design of the use of magnetic force
 description: >-
 image: assets/img/posts/Surface_Pen/image1.jpg
+optimized_image: assets/img/posts/Surface_Pen/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - Signifier

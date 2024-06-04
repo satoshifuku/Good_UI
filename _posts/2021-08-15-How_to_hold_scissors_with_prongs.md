@@ -5,7 +5,7 @@ title: How to hold scissors with prongs
 subtitle: Scissors that guide you to the correct way to hold the scissors.
 description: >-
 image: assets/img/posts/How_to_hold_scissors_with_prongs/How_to_hold_scissors_with_prongs.jpg
-optimized_image: 
+optimized_image: assets/img/posts/How_to_hold_scissors_with_prongs/How_to_hold_scissors_with_prongs_resized_thumbnail.jpg
 category: blog
 tags: 
 author: otemoto

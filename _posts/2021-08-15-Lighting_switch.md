@@ -5,7 +5,7 @@ title:  Lighting switch
 subtitle: Lighting switch that can be used without looking
 description: >-
 image: assets/img/posts/Lighting_switch/Lighting_switch.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Lighting_switch/Lighting_switch_resized_thumbnail.jpg
 category: blog
 tags: 
 author: a2-03

@@ -5,7 +5,7 @@ title: Good UI of Joy-Con
 subtitle: Nintendo Switch default controller.
 description: >-
 image: assets/img/posts/Good_UI_of_Joy-Con/Good_UI_of_Joy-Con.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Good_UI_of_Joy-Con/Good_UI_of_Joy-Con_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Hanachan

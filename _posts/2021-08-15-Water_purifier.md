@@ -5,7 +5,7 @@ title:  Water purifier
 subtitle: A pot-type BRITA water purifier that filters water
 description: >-
 image: assets/img/posts/Water_purifier/Water_purifier.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Water_purifier/Water_purifier_resized_thumbnail.jpg
 category: blog
 tags: 
 author: yoshino

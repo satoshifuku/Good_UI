@@ -5,7 +5,7 @@ title: Wine saver stopper "VACUVIN"
 subtitle: use for prevents wine oxidation.
 description: >-
 image: assets/img/posts/Wine_saver_stopper_VACUVIN/Wine_saver_stopper_VACUVIN.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Wine_saver_stopper_VACUVIN/Wine_saver_stopper_VACUVIN_resized_thumbnail.jpg
 category: blog
 tags: 
 author: eo

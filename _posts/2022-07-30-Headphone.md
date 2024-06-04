@@ -5,7 +5,7 @@ title: Headphone
 subtitle: Headphone / Audio-Technica
 description: >-
 image: assets/img/posts/Headphone/Headphone.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Headphone/Headphone_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Nanami

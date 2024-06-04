@@ -5,7 +5,7 @@ title: On the floor
 subtitle: The floor in Narita airport
 description: >-
 image: assets/img/posts/On_the_floor/On_the_floor.jpg
-optimized_image: 
+optimized_image: assets/img/posts/On_the_floor/On_the_floor_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Hagu

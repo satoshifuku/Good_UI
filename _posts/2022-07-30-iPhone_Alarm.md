@@ -5,7 +5,7 @@ title: iPhone Alarm
 subtitle: It makes you unable to go back to sleep.
 description: >-
 image: assets/img/posts/iPhone_Alarm/iPhone_Alarm.png
-optimized_image: 
+optimized_image: assets/img/posts/iPhone_Alarm/iPhone_Alarm_resized_thumbnail.png
 category: blog
 tags: 
 author: good user

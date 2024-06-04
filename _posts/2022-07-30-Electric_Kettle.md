@@ -5,7 +5,7 @@ title:  Electric kettle
 subtitle: It can be used safely
 description: >-
 image: assets/img/posts/Electric_kettle/Electric_kettle.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Electric_kettle/Electric_kettle_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Ayumi Tsukiyama

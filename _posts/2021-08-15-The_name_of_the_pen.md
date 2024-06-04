@@ -5,7 +5,7 @@ title: The name of the pen
 subtitle: Understanding by Name
 description: >-
 image: assets/img/posts/The_name_of_the_pen/The_name_of_the_pen.jpg
-optimized_image: 
+optimized_image: assets/img/posts/The_name_of_the_pen/The_name_of_the_pen_resized_thumbnail.jpg
 category: blog
 tags: 
 author: netz

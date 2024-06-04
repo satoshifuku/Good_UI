@@ -5,6 +5,7 @@ title: Standing pencil case
 subtitle: A pencil case that saves space
 description: >-
 image: assets/img/posts/Standing_pencil_case/image1.jpg
+optimized_image: assets/img/posts/Standing_pencil_case/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - 物理的制約

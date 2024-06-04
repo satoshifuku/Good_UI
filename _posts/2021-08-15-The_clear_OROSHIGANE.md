@@ -5,7 +5,7 @@ title: The clear "OROSHIGANE"
 subtitle: clear?? metal??
 description: >-
 image: assets/img/posts/The_clear_OROSHIGANE/The_clear_OROSHIGANE.png
-optimized_image: 
+optimized_image: assets/img/posts/The_clear_OROSHIGANE/The_clear_OROSHIGANE_resized_thumbnail.png
 category: blog
 tags: 
 author: eo

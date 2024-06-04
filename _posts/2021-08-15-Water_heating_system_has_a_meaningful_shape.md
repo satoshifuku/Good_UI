@@ -5,7 +5,7 @@ title: Water heating system has a meaningful shape
 subtitle: Why water heating system commonly found in conveyor-belt sushi are less prone to accidents
 description: >-
 image: assets/img/posts/Water_heating_system_has_a_meaningful_shape/Water_heating_system_has_a_meaningful_shape.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Water_heating_system_has_a_meaningful_shape/Water_heating_system_has_a_meaningful_shape_resized_thumbnail.jpg
 category: blog
 tags: 
 author: manjiro

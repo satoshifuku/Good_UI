@@ -5,7 +5,7 @@ title: A folding umbrella
 subtitle: This product is used to prevent the body from getting wet in the rain. This product is more compact than a long umbrella and is easy to carry.
 description: >-
 image: assets/img/posts/A_folding_umbrella/A_folding_umbrella.jpg
-optimized_image: 
+optimized_image: assets/img/posts/A_folding_umbrella/A_folding_umbrella_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Shida

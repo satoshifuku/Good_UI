@@ -5,7 +5,7 @@ title: Cushion foundation puff
 subtitle: Puff, one of the cosmetics tools
 description: >-
 image: assets/img/posts/Cushion_foundation_puff/Cushion_foundation_puff.jpeg
-optimized_image: 
+optimized_image: assets/img/posts/Cushion_foundation_puff/Cushion_foundation_puff_resized_thumbnail.jpeg
 category: blog
 tags: 
 author: as

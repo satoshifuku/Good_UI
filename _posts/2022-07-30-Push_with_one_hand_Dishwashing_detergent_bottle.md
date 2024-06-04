@@ -5,7 +5,7 @@ title: Push with one hand! Dishwashing detergent bottle
 subtitle: An item in which detergent comes out if you press the upper part with one hand while holding the sponge.
 description: >-
 image: assets/img/posts/Push_with_one_hand_Dishwashing_detergent_bottle/Push_with_one_hand_Dishwashing_detergent_bottle.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Push_with_one_hand_Dishwashing_detergent_bottle/Push_with_one_hand_Dishwashing_detergent_bottle_resized_thumbnail.jpg
 category: blog
 tags: 
 author: 23j

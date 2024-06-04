@@ -5,7 +5,7 @@ title: The　Earpick
 subtitle: Daily necessities that can be used without explanation
 description: >-
 image: assets/img/posts/The　Earpick/The　Earpick.jpg
-optimized_image: 
+optimized_image: assets/img/posts/The　Earpick/The　Earpick_resized_thumbnail.jpg
 category: blog
 tags: 
 author: tom

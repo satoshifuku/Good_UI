@@ -5,7 +5,7 @@ title: The Thermometer Made by OMRON
 subtitle: Easy-to-use Thermometer
 description: >-
 image: assets/img/posts/The_Thermometer_Made_by_OMRON/The_Thermometer_Made_by_OMRON.jpg
-optimized_image: 
+optimized_image: assets/img/posts/The_Thermometer_Made_by_OMRON/The_Thermometer_Made_by_OMRON_resized_thumbnail.jpg
 category: blog
 tags: 
 author: yh

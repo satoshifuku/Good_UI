@@ -5,7 +5,7 @@ title:  Steam iron
 subtitle:  An iron that is easy for anyone to use
 description: >-
 image: assets/img/posts/Steam_iron/Steam_iron.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Steam_iron/Steam_iron_resized_thumbnail.jpg
 category: blog
 tags: 
 author: r4miryth
