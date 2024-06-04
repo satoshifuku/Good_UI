@@ -5,6 +5,7 @@ title: Consideration of the Fn-key of “Let’s note” from the UI point of vi
 subtitle: Good UI that you may not have noticed unless you are a PC beginner.
 description: >-
 image: assets/img/posts/Consideration_of_the_Fn-key_of_“Let’s_note”_from_the_UI_point_of_view/image1.jpg
+optimized_image: assets/img/posts/Consideration_of_the_Fn-key_of_“Let’s_note”_from_the_UI_point_of_view/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - より強い対応付け

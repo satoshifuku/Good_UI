@@ -5,7 +5,7 @@ title: puzzle & dragon
 subtitle: The secret of the popularity of popular game apps.
 description: >-
 image: assets/img/posts/puzzle_&_dragon/puzzle_&_dragon.jpg
-optimized_image: 
+optimized_image: assets/img/posts/puzzle_&_dragon/puzzle_&_dragon_resized_thumbnail.jpg
 category: blog
 tags: 
 author: kouki

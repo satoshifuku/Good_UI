@@ -5,7 +5,7 @@ title: Game software package "PS4"
 subtitle: Game software package "PS4" interface
 description: >-
 image: assets/img/posts/Game_software_package_PS4/Game_software_package_PS4.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Game_software_package_PS4/Game_software_package_PS4_resized_thumbnail.jpg
 category: blog
 tags: 
 author: YB

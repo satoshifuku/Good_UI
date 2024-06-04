@@ -5,7 +5,7 @@ title: NISSIN's Cup Yakisoba "UFO"
 subtitle: A product is a disk-shaped cup of cup yakisoba, and have the characteristic of the need to trash of the hot water. It's has given us many signs to avoid mistakes.
 description: >-
 image: assets/img/posts/NISSINs_Cup_Yakisoba_UFO/NISSINs_Cup_Yakisoba_UFO.jpg
-optimized_image: 
+optimized_image: assets/img/posts/NISSINs_Cup_Yakisoba_UFO/NISSINs_Cup_Yakisoba_UFO_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Shoki Harada

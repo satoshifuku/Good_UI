@@ -5,7 +5,7 @@ title: Frame purse
 subtitle: How the Mouths of Frogs Move Us?
 description: >-
 image: assets/img/posts/Frame_purse/Frame_purse.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Frame_purse/Frame_purse_resized_thumbnail.jpg
 category: blog
 tags: 
 author: siki

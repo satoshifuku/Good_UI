@@ -5,7 +5,7 @@ title: Plastic bottle (Fanta 1.5L)
 subtitle: Constriction for easy to hold
 description: >-
 image: assets/img/posts/Plastic_bottle_(Fanta_15L)/Plastic_bottle_(Fanta_15L).JPG
-optimized_image: 
+optimized_image: assets/img/posts/Plastic_bottle_(Fanta_15L)/Plastic_bottle_(Fanta_15L)_resized_thumbnail.JPG
 category: blog
 tags: 
 author: Karin

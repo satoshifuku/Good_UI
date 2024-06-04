@@ -5,7 +5,7 @@ title: Reliable Hair Iron
 subtitle: Excellent safety
 description: >-
 image: assets/img/posts/Reliable_Hair_Iron/Reliable_Hair_Iron.jpeg
-optimized_image: 
+optimized_image: assets/img/posts/Reliable_Hair_Iron/Reliable_Hair_Iron_resized_thumbnail.jpeg
 category: blog
 tags: 
 author: Gorilla manji

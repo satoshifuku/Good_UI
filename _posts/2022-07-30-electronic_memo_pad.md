@@ -5,7 +5,7 @@ title: electronic memo pad
 subtitle: With an electronic memo pad, you don't need paper.
 description: >-
 image: assets/img/posts/electronic_memo_pad/electronic_memo_pad.jpg
-optimized_image: 
+optimized_image: assets/img/posts/electronic_memo_pad/electronic_memo_pad_resized_thumbnail.jpg
 category: blog
 tags: 
 author: konbu

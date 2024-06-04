@@ -5,7 +5,7 @@ title: my favorite design
 subtitle: utilization of constraints
 description: >-
 image: assets/img/posts/my_favorite_design/my_favorite_design.jpg
-optimized_image: 
+optimized_image: assets/img/posts/my_favorite_design/my_favorite_design_resized_thumbnail.jpg
 category: blog
 tags: 
 author: d dpwg

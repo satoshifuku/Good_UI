@@ -5,7 +5,7 @@ title: Tamiya SPARMAX AIRBRUSH SX 0.3D
 subtitle: painting tool
 description: >-
 image: assets/img/posts/Tamiya_SPARMAX_AIRBRUSH_SX_03D/Tamiya_SPARMAX_AIRBRUSH_SX_03D.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Tamiya_SPARMAX_AIRBRUSH_SX_03D/Tamiya_SPARMAX_AIRBRUSH_SX_03D_resized_thumbnail.jpg
 category: blog
 tags: 
 author: onigirinigiri

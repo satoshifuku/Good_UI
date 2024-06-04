@@ -5,7 +5,7 @@ title: Coffee Maker
 subtitle: Coffee Maker
 description: >-
 image: assets/img/posts/Coffee_Maker/Coffee_Maker.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Coffee_Maker/Coffee_Maker_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Programer

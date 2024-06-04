@@ -5,6 +5,7 @@ title: BATHROOM FAUCET
 subtitle: Safe and easy to understand operability
 description: >-
 image: assets/img/posts/BATHROOM_FAUCET/image1.jpg
+optimized_image: assets/img/posts/BATHROOM_FAUCET/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - アフォーダンス

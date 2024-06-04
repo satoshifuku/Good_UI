@@ -5,7 +5,7 @@ title: electric mosquito repeller
 subtitle: electric mosquito repeller in japan
 description: >-
 image: assets/img/posts/electric_mosquito_repeller/electric_mosquito_repeller.jpg
-optimized_image: 
+optimized_image: assets/img/posts/electric_mosquito_repeller/electric_mosquito_repeller_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Nameless

@@ -5,7 +5,7 @@ title: A treasure trove of feedback = claw machine
 subtitle: Make a fun experience into the UI
 description: >-
 image: assets/img/posts/A_treasure_trove_of_feedback_=_claw_machine/A_treasure_trove_of_feedback_=_claw_machine.JPG
-optimized_image: 
+optimized_image: assets/img/posts/A_treasure_trove_of_feedback_=_claw_machine/A_treasure_trove_of_feedback_=_claw_machine_resized_thumbnail.JPG
 category: blog
 tags: 
 author: Kentaro

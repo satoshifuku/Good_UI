@@ -5,6 +5,7 @@ title: How to avoid an error provided by Gamecube controller
 subtitle: A difference of importance by asymmetric arrangement
 description: >-
 image: assets/img/posts/How_to_avoid_an_error_provided_by_Gamecube_controller/image1.jpg
+optimized_image: assets/img/posts/How_to_avoid_an_error_provided_by_Gamecube_controller/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - シグニファイア

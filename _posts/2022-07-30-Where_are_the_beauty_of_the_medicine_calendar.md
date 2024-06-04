@@ -5,7 +5,7 @@ title: Where are the beauty of the medicine calendar?
 subtitle: UI for not forgetting actions that are easy to forget
 description: >-
 image: assets/img/posts/Where_are_the_beauty_of_the_medicine_calendar/Where_are_the_beauty_of_the_medicine_calendar.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Where_are_the_beauty_of_the_medicine_calendar/Where_are_the_beauty_of_the_medicine_calendar_resized_thumbnail.jpg
 category: blog
 tags: 
 author: msk hn

@@ -5,7 +5,7 @@ title: Cape made by Kao
 subtitle: Spray in the right direction
 description: >-
 image: assets/img/posts/Cape_made_by_Kao/Cape_made_by_Kao.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Cape_made_by_Kao/Cape_made_by_Kao_resized_thumbnail.jpg
 category: blog
 tags: 
 author: kikurage

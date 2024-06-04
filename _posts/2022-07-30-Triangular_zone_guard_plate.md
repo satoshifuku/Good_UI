@@ -5,7 +5,7 @@ title: Triangular zone guard plate
 subtitle: Guard plate indispensable for escalator
 description: >-
 image: assets/img/posts/Triangular_zone_guard_plate/Triangular_zone_guard_plate.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Triangular_zone_guard_plate/Triangular_zone_guard_plate_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Rikuto N

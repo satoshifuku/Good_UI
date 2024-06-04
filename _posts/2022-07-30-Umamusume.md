@@ -5,7 +5,7 @@ title: Umamusume
 subtitle: Do Androids Dream of Electric Horse?
 description: >-
 image: assets/img/posts/Umamusume/Umamusume.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Umamusume/Umamusume_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Amago

@@ -5,7 +5,7 @@ title: Fire extinguisher
 subtitle: Simple and sophisticated colors and forms.
 description: >-
 image: assets/img/posts/Fire_extinguisher/Fire_extinguisher.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Fire_extinguisher/Fire_extinguisher_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Daiki Okamoto

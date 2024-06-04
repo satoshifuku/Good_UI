@@ -5,7 +5,7 @@ title: Goodness hidden in tradition
 subtitle: It ’s also good because it ’s been around for a long time.
 description: >-
 image: assets/img/posts/Goodness_hidden_in_tradition/Goodness_hidden_in_tradition.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Goodness_hidden_in_tradition/Goodness_hidden_in_tradition_resized_thumbnail.jpg
 category: blog
 tags: 
 author: NOBU

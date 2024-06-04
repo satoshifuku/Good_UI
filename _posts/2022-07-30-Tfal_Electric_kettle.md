@@ -5,7 +5,7 @@ title: Tfal Electric kettle
 subtitle: Providing hot water to users comfortably
 description: >-
 image: assets/img/posts/Tfal_Electric_kettle/Tfal_Electric_kettle.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Tfal_Electric_kettle/Tfal_Electric_kettle_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Shibazakura

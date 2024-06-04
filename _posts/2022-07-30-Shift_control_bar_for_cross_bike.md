@@ -5,7 +5,7 @@ title: Shift control bar for cross bike
 subtitle: GUI for smooth gear change
 description: >-
 image: assets/img/posts/Shift_control_bar_for_cross_bike/Shift_control_bar_for_cross_bike.png
-optimized_image: 
+optimized_image: assets/img/posts/Shift_control_bar_for_cross_bike/Shift_control_bar_for_cross_bike_resized_thumbnail.png
 category: blog
 tags: 
 author: zawa

@@ -5,7 +5,7 @@ title: This thing is so great.
 subtitle: Hidden Aims
 description: >-
 image: assets/img/posts/This_thing_is_so_great/This_thing_is_so_great.jpg
-optimized_image: 
+optimized_image: assets/img/posts/This_thing_is_so_great/This_thing_is_so_great_resized_thumbnail.jpg
 category: blog
 tags: 
 author: wakkanai

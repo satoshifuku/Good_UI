@@ -5,6 +5,7 @@ title: A power strip
 subtitle: The convenience of “wide switch”
 description: >-
 image: assets/img/posts/Good_UI_an_Introduction_of_a_Power_strip/image1.jpg
+optimized_image: assets/img/posts/Good_UI_an_Introduction_of_a_Power_strip/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - wide switch

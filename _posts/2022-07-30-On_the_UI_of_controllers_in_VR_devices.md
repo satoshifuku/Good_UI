@@ -5,7 +5,7 @@ title: On the UI of controllers in VR devices
 subtitle: Differences from and advantages over common controllers
 description: >-
 image: assets/img/posts/On_the_UI_of_controllers_in_VR_devices/On_the_UI_of_controllers_in_VR_devices.png
-optimized_image: 
+optimized_image: assets/img/posts/On_the_UI_of_controllers_in_VR_devices/On_the_UI_of_controllers_in_VR_devices_resized_thumbnail.png
 category: blog
 tags: 
 author: zumiodeath

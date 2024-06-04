@@ -5,7 +5,7 @@ title: 2 hassles to 1 hassle
 subtitle: Hot snack companion
 description: >-
 image: assets/img/posts/2_hassles_to_1_hassle/2_hassles_to_1_hassle.JPG
-optimized_image: 
+optimized_image: assets/img/posts/2_hassles_to_1_hassle/2_hassles_to_1_hassle_resized_thumbnail.JPG
 category: blog
 tags: 
 author: sato ken

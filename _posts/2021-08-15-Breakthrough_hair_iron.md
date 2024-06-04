@@ -5,7 +5,7 @@ title: Breakthrough hair iron
 subtitle: You will want to use every day products
 description: >-
 image: assets/img/posts/Breakthrough_hair_iron/Breakthrough_hair_iron.png
-optimized_image: 
+optimized_image: assets/img/posts/Breakthrough_hair_iron/Breakthrough_hair_iron_resized_thumbnail.png
 category: blog
 tags: 
 author: yume

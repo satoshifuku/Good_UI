@@ -5,7 +5,7 @@ title: Charger that only fills you.
 subtitle: By giving constraints, it becomes easier to understand and clearer.
 description: >-
 image: assets/img/posts/Charger_that_only_fills_you/Charger_that_only_fills_you.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Charger_that_only_fills_you/Charger_that_only_fills_you_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Ma5Amun3.

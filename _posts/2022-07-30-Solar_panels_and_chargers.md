@@ -5,7 +5,7 @@ title: Solar panels and chargers
 subtitle: Solar panels for home use
 description: >-
 image: assets/img/posts/Solar_panels_and_chargers/Solar_panels_and_chargers.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Solar_panels_and_chargers/Solar_panels_and_chargers_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Nori

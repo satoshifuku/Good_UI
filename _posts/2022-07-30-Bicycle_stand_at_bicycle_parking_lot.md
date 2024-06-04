@@ -5,7 +5,7 @@ title: Bicycle stand at bicycle parking lot
 subtitle: To keep a clean bicycle parking lot
 description: >-
 image: assets/img/posts/Bicycle_stand_at_bicycle_parking_lot/Bicycle_stand_at_bicycle_parking_lot.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Bicycle_stand_at_bicycle_parking_lot/Bicycle_stand_at_bicycle_parking_lot_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Nishikori

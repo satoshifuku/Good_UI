@@ -5,7 +5,7 @@ title: Favorite wrap box
 subtitle: UI to guide people
 description: >-
 image: assets/img/posts/Favorite_wrap_box/Favorite_wrap_box.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Favorite_wrap_box/Favorite_wrap_box_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Kanta　Ando

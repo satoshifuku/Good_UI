@@ -5,7 +5,7 @@ title: Window open close and lock control switch
 subtitle: Controlling the open/close & lock of window
 description: >-
 image: assets/img/posts/Window_open_close_and_lock_control_switch/Window_open_close_and_lock_control_switch.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Window_open_close_and_lock_control_switch/Window_open_close_and_lock_control_switch_resized_thumbnail.jpg
 category: blog
 tags: 
 author: kig

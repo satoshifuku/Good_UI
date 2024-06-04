@@ -5,7 +5,7 @@ title: Vacuum cleaner
 subtitle: Hitachi cordless cleaner
 description: >-
 image: assets/img/posts/Vacuum_cleaner/Vacuum_cleaner.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Vacuum_cleaner/Vacuum_cleaner_resized_thumbnail.jpg
 category: blog
 tags: 
 author: yoshino

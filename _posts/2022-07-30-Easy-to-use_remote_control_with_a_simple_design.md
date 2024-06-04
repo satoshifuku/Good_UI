@@ -5,7 +5,7 @@ title: Easy-to-use remote control with a simple design
 subtitle: Comfortable operation even in the dark at night
 description: >-
 image: assets/img/posts/Easy-to-use_remote_control_with_a_simple_design/Easy-to-use_remote_control_with_a_simple_design.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Easy-to-use_remote_control_with_a_simple_design/Easy-to-use_remote_control_with_a_simple_design_resized_thumbnail.jpg
 category: blog
 tags: 
 author: ttt

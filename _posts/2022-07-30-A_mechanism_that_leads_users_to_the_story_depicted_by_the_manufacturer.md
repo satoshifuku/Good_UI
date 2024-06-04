@@ -5,7 +5,7 @@ title: A mechanism that leads users to the story depicted by the manufacturer.
 subtitle: About Chicken Ramen Egg Pocket
 description: >-
 image: assets/img/posts/A_mechanism_that_leads_users_to_the_story_depicted_by_the_manufacturer/A_mechanism_that_leads_users_to_the_story_depicted_by_the_manufacturer.jpg
-optimized_image: 
+optimized_image: assets/img/posts/A_mechanism_that_leads_users_to_the_story_depicted_by_the_manufacturer/A_mechanism_that_leads_users_to_the_story_depicted_by_the_manufacturer_resized_thumbnail.jpg
 category: blog
 tags: 
 author: SONOHARA

@@ -5,6 +5,7 @@ title: Contraceptives device
 subtitle: Direct package Signifier.
 description: >-
 image: assets/img/posts/Good_UI_of_contraceptives_device/image1.jpg
+optimized_image: assets/img/posts/Good_UI_of_contraceptives_device/image1_resized_thumbnail.jpg
 category: Post
 author: Tsuruzawa A4
 paginate: false

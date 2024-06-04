@@ -5,7 +5,7 @@ title: How to charm the function of rolling
 subtitle: Why do you use it when you have a vacuum cleaner
 description: >-
 image: assets/img/posts/How_to_charm_the_function_of_rolling/How_to_charm_the_function_of_rolling.JPG
-optimized_image: 
+optimized_image: assets/img/posts/How_to_charm_the_function_of_rolling/How_to_charm_the_function_of_rolling_resized_thumbnail.JPG
 category: blog
 tags: 
 author: Hamcomer

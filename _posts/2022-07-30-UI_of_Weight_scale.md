@@ -5,7 +5,7 @@ title: UI of Weight scale
 subtitle: Signifier and  feedback
 description: >-
 image: assets/img/posts/UI_of_Weight_scale/UI_of_Weight_scale.JPG
-optimized_image: 
+optimized_image: assets/img/posts/UI_of_Weight_scale/UI_of_Weight_scale_resized_thumbnail.JPG
 category: blog
 tags: 
 author: pito-

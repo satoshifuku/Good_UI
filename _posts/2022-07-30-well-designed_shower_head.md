@@ -5,7 +5,7 @@ title: well-designed shower head
 subtitle: prevent mistakes
 description: >-
 image: assets/img/posts/well-designed_shower_head/well-designed_shower_head.jpg
-optimized_image: 
+optimized_image: assets/img/posts/well-designed_shower_head/well-designed_shower_head_resized_thumbnail.jpg
 category: blog
 tags: 
 author: haRu

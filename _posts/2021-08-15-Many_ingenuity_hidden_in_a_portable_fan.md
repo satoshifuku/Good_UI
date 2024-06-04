@@ -5,7 +5,7 @@ title: Many ingenuity hidden in a portable fan
 subtitle: Restrictions for anyone to use
 description: >-
 image: assets/img/posts/Many_ingenuity_hidden_in_a_portable_fan/Many_ingenuity_hidden_in_a_portable_fan.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Many_ingenuity_hidden_in_a_portable_fan/Many_ingenuity_hidden_in_a_portable_fan_resized_thumbnail.jpg
 category: blog
 tags: 
 author: ri

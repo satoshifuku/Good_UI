@@ -5,7 +5,7 @@ title: USBmicrophone　&  Roomlight-switch
 subtitle:  A microphone that you don't forget to mute and lighting that you don't even see
 description: >-
 image: assets/img/posts/USBmicrophone　&__Roomlight-switch/USBmicrophone　&__Roomlight-switch.jpg
-optimized_image: 
+optimized_image: assets/img/posts/USBmicrophone　&__Roomlight-switch/USBmicrophone　&__Roomlight-switch_resized_thumbnail.jpg
 category: blog
 tags: 
 author: a2-03

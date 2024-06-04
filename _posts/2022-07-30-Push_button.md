@@ -5,7 +5,7 @@ title: Push button
 subtitle: Simple design
 description: >-
 image: assets/img/posts/Push_button/Push_button.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Push_button/Push_button_resized_thumbnail.JPG
 category: blog
 tags: 
 author: N

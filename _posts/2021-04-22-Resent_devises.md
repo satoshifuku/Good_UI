@@ -5,6 +5,7 @@ title: Recent devises
 subtitle: Smart speakers from everyday devices
 description: >-
 image: assets/img/posts/Good_UI_for_Resent_devises/image1.jpg
+optimized_image: assets/img/posts/Good_UI_for_Resent_devises/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - アフォーダンス

@@ -5,7 +5,7 @@ title: White line of bicycle parking lot
 subtitle: To arrange neatly
 description: >-
 image: assets/img/posts/White_line_of_bicycle_parking_lot/White_line_of_bicycle_parking_lot.jpg
-optimized_image: 
+optimized_image: assets/img/posts/White_line_of_bicycle_parking_lot/White_line_of_bicycle_parking_lot_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Carpaccio

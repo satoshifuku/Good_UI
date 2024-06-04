@@ -5,7 +5,7 @@ title: If you take a closer look at the handy fan...
 subtitle: Think about handy fans.
 description: >-
 image: assets/img/posts/If_you_take_a_closer_look_at_the_handy_fan/If_you_take_a_closer_look_at_the_handy_fan.jpg
-optimized_image: 
+optimized_image: assets/img/posts/If_you_take_a_closer_look_at_the_handy_fan/If_you_take_a_closer_look_at_the_handy_fan_resized_thumbnail.jpg
 category: blog
 tags: 
 author: mikan.

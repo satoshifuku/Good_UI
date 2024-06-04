@@ -5,7 +5,7 @@ title: The secret of escalator
 subtitle: In the escalator we use unintentionally, good UI are hidden
 description: >-
 image: assets/img/posts/The_secret_of_escalator/The_secret_of_escalator.jpg
-optimized_image: 
+optimized_image: assets/img/posts/The_secret_of_escalator/The_secret_of_escalator_resized_thumbnail.jpg
 category: blog
 tags: 
 author: POTAPOTA-CHAN

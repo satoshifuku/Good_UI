@@ -5,7 +5,7 @@ title: refrigerator
 subtitle: Vacuum chilled room
 description: >-
 image: assets/img/posts/refrigerator/refrigerator.JPG
-optimized_image: 
+optimized_image: assets/img/posts/refrigerator/refrigerator_resized_thumbnail.JPG
 category: blog
 tags: 
 author: Nazuna Mitani

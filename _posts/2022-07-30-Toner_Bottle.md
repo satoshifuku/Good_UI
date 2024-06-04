@@ -5,7 +5,7 @@ title: Toner Bottle
 subtitle: Simple, but Kind
 description: >-
 image: assets/img/posts/Toner_Bottle/Toner_Bottle.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Toner_Bottle/Toner_Bottle_resized_thumbnail.jpg
 category: blog
 tags: 
 author: siki

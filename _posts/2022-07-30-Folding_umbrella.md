@@ -5,7 +5,7 @@ title: Folding umbrella
 subtitle: GOOD UI of folding umbrella
 description: >-
 image: assets/img/posts/Folding_umbrella/Folding_umbrella.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Folding_umbrella/Folding_umbrella_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Tasuku

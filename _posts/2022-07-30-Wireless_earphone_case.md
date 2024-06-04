@@ -5,7 +5,7 @@ title: Wireless earphone case
 subtitle: Charging part of the earphone body
 description: >-
 image: assets/img/posts/Wireless_earphone_case/Wireless_earphone_case.png
-optimized_image: 
+optimized_image: assets/img/posts/Wireless_earphone_case/Wireless_earphone_case_resized_thumbnail.png
 category: blog
 tags: 
 author: Galago

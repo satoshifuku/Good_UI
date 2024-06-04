@@ -5,7 +5,7 @@ title: Common microwave ovens
 subtitle: Awareness of home appliances
 description: >-
 image: assets/img/posts/Common_microwave_ovens/Common_microwave_ovens.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Common_microwave_ovens/Common_microwave_ovens_resized_thumbnail.jpg
 category: blog
 tags: 
 author: sen

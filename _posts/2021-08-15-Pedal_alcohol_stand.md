@@ -5,7 +5,7 @@ title: Pedal alcohol stand
 subtitle: Products due to the effects of coronavirus
 description: >-
 image: assets/img/posts/Pedal_alcohol_stand/Pedal_alcohol_stand.jpeg
-optimized_image: 
+optimized_image: assets/img/posts/Pedal_alcohol_stand/Pedal_alcohol_stand_resized_thumbnail.jpeg
 category: blog
 tags: 
 author: pumpkin pudding

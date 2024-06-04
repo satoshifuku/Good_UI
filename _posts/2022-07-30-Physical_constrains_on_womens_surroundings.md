@@ -5,7 +5,7 @@ title: Physical constrains on women's surroundings
 subtitle: Shape of Lipstick
 description: >-
 image: assets/img/posts/Physical_constrains_on_womens_surroundings/Physical_constrains_on_womens_surroundings.png
-optimized_image: 
+optimized_image: assets/img/posts/Physical_constrains_on_womens_surroundings/Physical_constrains_on_womens_surroundings_resized_thumbnail.png
 category: blog
 tags: 
 author: ari

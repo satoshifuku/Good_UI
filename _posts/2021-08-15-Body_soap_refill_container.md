@@ -5,7 +5,7 @@ title: Body soap refill container
 subtitle: Evolution of refill containers
 description: >-
 image: assets/img/posts/Body_soap_refill_container/Body_soap_refill_container.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Body_soap_refill_container/Body_soap_refill_container_resized_thumbnail.jpg
 category: blog
 tags: 
 author: pizza

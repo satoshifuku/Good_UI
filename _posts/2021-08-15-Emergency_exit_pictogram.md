@@ -5,7 +5,7 @@ title: Emergency exit pictogram
 subtitle: This pictogram is important for us to evacuate in an emergency.
 description: >-
 image: assets/img/posts/Emergency_exit_pictogram/Emergency_exit_pictogram.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Emergency_exit_pictogram/Emergency_exit_pictogram_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Koki

@@ -5,7 +5,7 @@ title: A music app designed for beginners to handle
 subtitle: Experience the joy of music intuitively
 description: >-
 image: assets/img/posts/A_music_app_designed_for_beginners_to_handle/A_music_app_designed_for_beginners_to_handle.PNG
-optimized_image: 
+optimized_image: assets/img/posts/A_music_app_designed_for_beginners_to_handle/A_music_app_designed_for_beginners_to_handle_resized_thumbnail.PNG
 category: blog
 tags: 
 author: mokuro

@@ -5,7 +5,7 @@ title: Antiperspirant spray cap
 subtitle: Role of caps that do not come off
 description: >-
 image: assets/img/posts/Antiperspirant_spray_cap/Antiperspirant_spray_cap.png
-optimized_image: 
+optimized_image: assets/img/posts/Antiperspirant_spray_cap/Antiperspirant_spray_cap_resized_thumbnail.png
 category: blog
 tags: 
 author: zawa

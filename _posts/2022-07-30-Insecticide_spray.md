@@ -5,7 +5,7 @@ title: Insecticide spray
 subtitle: Spray jetting part
 description: >-
 image: assets/img/posts/Insecticide_spray/Insecticide_spray.png
-optimized_image: 
+optimized_image: assets/img/posts/Insecticide_spray/Insecticide_spray_resized_thumbnail.png
 category: blog
 tags: 
 author: Galago

@@ -5,7 +5,7 @@ title: Interface of light``:`` Penlight
 subtitle: Penlight keeping a good balance between function and operation 
 description: >-
 image: assets/img/posts/Interface_of_light__Penlight/Interface_of_light__Penlight.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Interface_of_light__Penlight/Interface_of_light__Penlight_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Nakanishi

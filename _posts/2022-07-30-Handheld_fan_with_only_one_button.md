@@ -5,7 +5,7 @@ title: Handheld fan with only one button
 subtitle: All operations in one button
 description: >-
 image: assets/img/posts/Handheld_fan_with_only_one_button/Handheld_fan_with_only_one_button.png
-optimized_image: 
+optimized_image: assets/img/posts/Handheld_fan_with_only_one_button/Handheld_fan_with_only_one_button_resized_thumbnail.png
 category: blog
 tags: 
 author: Cherry

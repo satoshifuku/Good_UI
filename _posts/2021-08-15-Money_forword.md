@@ -5,7 +5,7 @@ title: Money forword
 subtitle: Convenient housekeeping book app
 description: >-
 image: assets/img/posts/Money_forword/Money_forword.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Money_forword/Money_forword_resized_thumbnail.jpg
 category: blog
 tags: 
 author: T３

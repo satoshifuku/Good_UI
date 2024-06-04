@@ -5,7 +5,7 @@ title: Book stand
 subtitle: Good  UI seen from color and material
 description: >-
 image: assets/img/posts/Book_stand/Book_stand.png
-optimized_image: 
+optimized_image: assets/img/posts/Book_stand/Book_stand_resized_thumbnail.png
 category: blog
 tags: 
 author: Daiki Okamoto

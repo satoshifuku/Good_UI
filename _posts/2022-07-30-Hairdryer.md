@@ -5,7 +5,7 @@ title: Hairdryer
 subtitle: Product design for everyday use
 description: >-
 image: assets/img/posts/Hairdryer/Hairdryer.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Hairdryer/Hairdryer_resized_thumbnail.JPG
 category: blog
 tags: 
 author: SHO

@@ -5,7 +5,7 @@ title: a nice box of sweets
 subtitle: The box of sweets is a universal design.
 description: >-
 image: assets/img/posts/a_nice_box_of_sweets/a_nice_box_of_sweets.JPG
-optimized_image: 
+optimized_image: assets/img/posts/a_nice_box_of_sweets/a_nice_box_of_sweets_resized_thumbnail.JPG
 category: blog
 tags: 
 author: maririn

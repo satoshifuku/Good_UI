@@ -5,7 +5,7 @@ title: rice ball sold in the convenience store
 subtitle: obvious pakage
 description: >-
 image: assets/img/posts/rice_ball_sold_in_the_convenience_store/rice_ball_sold_in_the_convenience_store.jpg
-optimized_image: 
+optimized_image: assets/img/posts/rice_ball_sold_in_the_convenience_store/rice_ball_sold_in_the_convenience_store_resized_thumbnail.jpg
 category: blog
 tags: 
 author: KINO

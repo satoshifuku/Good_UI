@@ -5,7 +5,7 @@ title: Vending Machine
 subtitle: Easy to purchase product
 description: >-
 image: assets/img/posts/Vending_Machine/Vending_Machine.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Vending_Machine/Vending_Machine_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Tonkatsu

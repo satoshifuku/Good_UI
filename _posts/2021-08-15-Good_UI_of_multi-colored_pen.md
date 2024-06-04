@@ -5,7 +5,7 @@ title: Good UI of multi-colored pen
 subtitle: multi-colored pen is Good UI.
 description: >-
 image: assets/img/posts/Good_UI_of_multi-colored_pen/Good_UI_of_multi-colored_pen.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Good_UI_of_multi-colored_pen/Good_UI_of_multi-colored_pen_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Hanachan

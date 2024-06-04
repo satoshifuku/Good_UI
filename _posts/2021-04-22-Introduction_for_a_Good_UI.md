@@ -5,6 +5,7 @@ title: Comfort of life by the Good UI
 subtitle: 
 description: >-
 image: assets/img/posts/Introduction_for_a_Good_UI/image1.jpg
+optimized_image: assets/img/posts/Introduction_for_a_Good_UI/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - 対応付け

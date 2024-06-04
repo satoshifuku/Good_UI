@@ -5,7 +5,7 @@ title: Easy-to-use dispensing mechanism
 subtitle: Ease of use and features of dispensers learned through lectures
 description: >-
 image: assets/img/posts/Easy-to-use_dispensing_mechanism/Easy-to-use_dispensing_mechanism.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Easy-to-use_dispensing_mechanism/Easy-to-use_dispensing_mechanism_resized_thumbnail.JPG
 category: blog
 tags: 
 author: sanefuji

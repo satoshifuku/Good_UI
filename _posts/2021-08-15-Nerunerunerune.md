@@ -5,7 +5,7 @@ title: Nerunerunerune
 subtitle: Prevention of mistakes when the target user is a child
 description: >-
 image: assets/img/posts/Nerunerunerune/Nerunerunerune.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Nerunerunerune/Nerunerunerune_resized_thumbnail.jpg
 category: blog
 tags: 
 author: pizza

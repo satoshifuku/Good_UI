@@ -5,7 +5,7 @@ title: The best alarm clock
 subtitle: Even people who wake up can operate it
 description: >-
 image: assets/img/posts/The_best_alarm_clock/The_best_alarm_clock.jpg
-optimized_image: 
+optimized_image: assets/img/posts/The_best_alarm_clock/The_best_alarm_clock_resized_thumbnail.jpg
 category: blog
 tags: 
 author: haru

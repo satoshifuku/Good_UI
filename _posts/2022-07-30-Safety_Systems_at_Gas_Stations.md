@@ -5,7 +5,7 @@ title: Safety Systems at Gas Stations
 subtitle: Everyone can use it safely
 description: >-
 image: assets/img/posts/Safety_Systems_at_Gas_Stations/Safety_Systems_at_Gas_Stations.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Safety_Systems_at_Gas_Stations/Safety_Systems_at_Gas_Stations_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Shiso

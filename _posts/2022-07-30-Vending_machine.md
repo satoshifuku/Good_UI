@@ -5,7 +5,7 @@ title: Vending machine
 subtitle: Affordance and feedback
 description: >-
 image: assets/img/posts/2022-07-30-Vending_machine/2022-07-30-Vending_machine.jpg
-optimized_image: 
+optimized_image: assets/img/posts/2022-07-30-Vending_machine/2022-07-30-Vending_machine_resized_thumbnail.jpg
 category: blog
 tags: 
 author: GUSOKU

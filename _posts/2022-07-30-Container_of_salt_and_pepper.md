@@ -5,7 +5,7 @@ title: Container of salt and pepper
 subtitle: Salt and pepper in everyone's house
 description: >-
 image: assets/img/posts/Container_of_salt_and_pepper/Container_of_salt_and_pepper.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Container_of_salt_and_pepper/Container_of_salt_and_pepper_resized_thumbnail.jpg
 category: blog
 tags: 
 author: kanseikougakukanseikougaku

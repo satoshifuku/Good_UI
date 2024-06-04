@@ -5,7 +5,7 @@ title: Shift lever safety
 subtitle: Double interlock
 description: >-
 image: assets/img/posts/Shift_lever_safety/Shift_lever_safety.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Shift_lever_safety/Shift_lever_safety_resized_thumbnail.JPG
 category: blog
 tags: 
 author: hama

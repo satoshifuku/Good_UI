@@ -5,7 +5,7 @@ title: Hair iron to prevent danger
 subtitle: Good products for feedback and signifier
 description: >-
 image: assets/img/posts/Hair_iron_to_prevent_danger/Hair_iron_to_prevent_danger.png
-optimized_image: 
+optimized_image: assets/img/posts/Hair_iron_to_prevent_danger/Hair_iron_to_prevent_danger_resized_thumbnail.png
 category: blog
 tags: 
 author: Cherry

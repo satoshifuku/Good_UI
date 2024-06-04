@@ -5,7 +5,7 @@ title: sony hear-on
 subtitle: headset
 description: >-
 image: assets/img/posts/sony_hear-on/sony_hear-on.jpg
-optimized_image: 
+optimized_image: assets/img/posts/sony_hear-on/sony_hear-on_resized_thumbnail.jpg
 category: blog
 tags: 
 author: onigirinigiri

@@ -5,7 +5,7 @@ title: Special charger
 subtitle: Why Joy-Con is so good with its unique charging method.
 description: >-
 image: assets/img/posts/Special_charger/Special_charger.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Special_charger/Special_charger_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Ma5Amun3.

@@ -5,7 +5,7 @@ title: Full Face Helmet
 subtitle: Good UI for safety
 description: >-
 image: assets/img/posts/Full_Face_Helmet/Full_Face_Helmet.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Full_Face_Helmet/Full_Face_Helmet_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Hisame

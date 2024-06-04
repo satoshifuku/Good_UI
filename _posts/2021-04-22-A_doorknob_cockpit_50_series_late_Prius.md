@@ -5,6 +5,7 @@ title: A doorknob cockpit 50 series late Prius
 subtitle: A doorknob that prevent accidents using affordances and physical constraints
 description: >-
 image: assets/img/posts/A_doorknob_cockpit_50_series_late_Prius/image1.jpg
+optimized_image: assets/img/posts/A_doorknob_cockpit_50_series_late_Prius/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - アフォーダンス

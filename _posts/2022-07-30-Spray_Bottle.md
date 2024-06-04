@@ -5,7 +5,7 @@ title: Spray Bottle
 subtitle: Easy to spray
 description: >-
 image: assets/img/posts/Spray_Bottle/Spray_Bottle.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Spray_Bottle/Spray_Bottle_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Minayama

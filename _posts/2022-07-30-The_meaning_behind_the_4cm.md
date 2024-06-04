@@ -5,7 +5,7 @@ title: The meaning behind the 4cm
 subtitle: Brake levers for sport bicycles
 description: >-
 image: assets/img/posts/The_meaning_behind_the_4cm/The_meaning_behind_the_4cm.jpg
-optimized_image: 
+optimized_image: assets/img/posts/The_meaning_behind_the_4cm/The_meaning_behind_the_4cm_resized_thumbnail.jpg
 category: blog
 tags: 
 author: SONOHARA

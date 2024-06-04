@@ -5,7 +5,7 @@ title: Google's translation service
 subtitle: OK, Google! Translate this sentence.
 description: >-
 image: assets/img/posts/Googles_translation_service/Googles_translation_service.png
-optimized_image: 
+optimized_image: assets/img/posts/Googles_translation_service/Googles_translation_service_resized_thumbnail.png
 category: blog
 tags: 
 author: R

@@ -5,7 +5,7 @@ title: A battery slot in Microsoft Surface keyboard.
 subtitle: 'Preventing a mistake which cylindrical battery incorrectly put a slot on.'
 description: >-
 image: assets/img/posts/2020-07-03-battery_Surface_keyboard.jpg
-# optimized_image: assets/img/posts/2020-07-03-battery_Surface_keyboard.jpg
+optimized_image: assets/img/posts/2020-07-03-battery_Surface_keyboard_resized_thumbnail.jpg
 category: Post
 tags:
   - Signifier

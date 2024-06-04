@@ -5,7 +5,7 @@ title: Japanese lined up at the station
 subtitle: When we are waiting for the train at the station, we are unknowingly lined up. When we are waiting for the train at the station, we are unknowingly lined up.
 description: >-
 image: assets/img/posts/Japanese_lined_up_at_the_station/Japanese_lined_up_at_the_station.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Japanese_lined_up_at_the_station/Japanese_lined_up_at_the_station_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Masashi

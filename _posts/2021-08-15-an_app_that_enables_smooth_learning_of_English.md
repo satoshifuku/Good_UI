@@ -5,7 +5,7 @@ title: an app that enables smooth learning of English
 subtitle: Learning and Interaction Design
 description: >-
 image: assets/img/posts/an_app_that_enables_smooth_learning_of_English/an_app_that_enables_smooth_learning_of_English.png
-optimized_image: 
+optimized_image: assets/img/posts/an_app_that_enables_smooth_learning_of_English/an_app_that_enables_smooth_learning_of_English_resized_thumbnail.png
 category: blog
 tags: 
 author: Gorilla manji

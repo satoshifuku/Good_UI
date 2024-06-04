@@ -5,7 +5,7 @@ title: Car smart key
 subtitle: You can use the car quickly.
 description: >-
 image: assets/img/posts/Car_smart_key/Car_smart_key.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Car_smart_key/Car_smart_key_resized_thumbnail.JPG
 category: blog
 tags: 
 author: mian

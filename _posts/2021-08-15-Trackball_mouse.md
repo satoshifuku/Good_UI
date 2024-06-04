@@ -5,7 +5,7 @@ title:  Trackball mouse
 subtitle:  Mouse that does not move
 description: >-
 image: assets/img/posts/Trackball_mouse/Trackball_mouse.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Trackball_mouse/Trackball_mouse_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Renji Iwashita

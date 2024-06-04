@@ -5,7 +5,7 @@ title: Detergent containers
 subtitle: Detergent containers design
 description: >-
 image: assets/img/posts/Detergent_containers/Detergent_containers.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Detergent_containers/Detergent_containers_resized_thumbnail.JPG
 category: blog
 tags: 
 author: fresino

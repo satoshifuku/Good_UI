@@ -5,7 +5,7 @@ title: Favorite air in
 subtitle: UI to guide people
 description: >-
 image: assets/img/posts/Favorite_air_in/Favorite_air_in.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Favorite_air_in/Favorite_air_in_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Kanta　Ando

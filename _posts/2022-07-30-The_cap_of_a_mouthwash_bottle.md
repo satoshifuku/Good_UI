@@ -5,7 +5,7 @@ title: The cap of a mouthwash bottle
 subtitle: A cap that prevents young children from accidentally drinking
 description: >-
 image: assets/img/posts/The_cap_of_a_mouthwash_bottle/The_cap_of_a_mouthwash_bottle.jpg
-optimized_image: 
+optimized_image: assets/img/posts/The_cap_of_a_mouthwash_bottle/The_cap_of_a_mouthwash_bottle_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Shizumi

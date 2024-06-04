@@ -5,7 +5,7 @@ title:  Information board in the parking area
 subtitle:  Minimum required information
 description: >-
 image: assets/img/posts/Information_board_in_the_parking_area/Information_board_in_the_parking_area.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Information_board_in_the_parking_area/Information_board_in_the_parking_area_resized_thumbnail.jpg
 category: blog
 tags: 
 author: r4miryth

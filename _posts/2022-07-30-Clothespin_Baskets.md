@@ -5,7 +5,7 @@ title: Clothespin Baskets
 subtitle: Two Capable Hooks
 description: >-
 image: assets/img/posts/Clothespin_Baskets/Clothespin_Baskets.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Clothespin_Baskets/Clothespin_Baskets_resized_thumbnail.jpg
 category: blog
 tags: 
 author: siki

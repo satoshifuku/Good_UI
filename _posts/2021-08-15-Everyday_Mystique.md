@@ -5,7 +5,7 @@ title: Everyday Mystique
 subtitle: Preventing Mistakes
 description: >-
 image: assets/img/posts/Everyday_Mystique/Everyday_Mystique.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Everyday_Mystique/Everyday_Mystique_resized_thumbnail.jpg
 category: blog
 tags: 
 author: netz

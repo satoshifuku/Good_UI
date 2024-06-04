@@ -5,7 +5,7 @@ title: Consideration of unnoticed photographic lenses
 subtitle: The wonders you know when attaching a photographic lens to a camera
 description: >-
 image: assets/img/posts/Consideration_of_unnoticed_photographic_lenses/Consideration_of_unnoticed_photographic_lenses.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Consideration_of_unnoticed_photographic_lenses/Consideration_of_unnoticed_photographic_lenses_resized_thumbnail.jpg
 category: blog
 tags: 
 author: mumu

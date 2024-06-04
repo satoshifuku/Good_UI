@@ -5,7 +5,7 @@ title: Supermarket trash can
 subtitle: Easy-to-understand trash can
 description: >-
 image: assets/img/posts/Supermarket_trash_can/Supermarket_trash_can.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Supermarket_trash_can/Supermarket_trash_can_resized_thumbnail.jpg
 category: blog
 tags: 
 author: r4miryth

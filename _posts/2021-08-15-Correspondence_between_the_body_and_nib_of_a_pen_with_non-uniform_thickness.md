@@ -5,7 +5,7 @@ title: Correspondence between the body and nib of a pen with non-uniform thickne
 subtitle: Which is the thicker nib?
 description: >-
 image: assets/img/posts/Correspondence_between_the_body_and_nib_of_a_pen_with_non-uniform_thickness/Correspondence_between_the_body_and_nib_of_a_pen_with_non-uniform_thickness.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Correspondence_between_the_body_and_nib_of_a_pen_with_non-uniform_thickness/Correspondence_between_the_body_and_nib_of_a_pen_with_non-uniform_thickness_resized_thumbnail.JPG
 category: blog
 tags: 
 author: mokuro

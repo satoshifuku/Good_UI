@@ -5,7 +5,7 @@ title: Umbrella plastic bag attachment machine + trash can
 subtitle: Fusion of two products and good design
 description: >-
 image: assets/img/posts/Umbrella_plastic_bag_attachment_machine_+_trash_can/Umbrella_plastic_bag_attachment_machine_+_trash_can.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Umbrella_plastic_bag_attachment_machine_+_trash_can/Umbrella_plastic_bag_attachment_machine_+_trash_can_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Daydreaming

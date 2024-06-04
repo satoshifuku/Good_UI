@@ -5,6 +5,7 @@ title: Tactile tile
 subtitle: Minimalist design
 description: >-
 image: assets/img/posts/Tactile_tile/image1.jpg
+optimized_image: assets/img/posts/Tactile_tile/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - アフォーダンス

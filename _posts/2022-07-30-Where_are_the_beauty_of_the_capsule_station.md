@@ -5,7 +5,7 @@ title: Where are the beauty of the capsule station?
 subtitle: UI that lets you take the right steps in your purchase
 description: >-
 image: assets/img/posts/Where_are_the_beauty_of_the_capsule_station/Where_are_the_beauty_of_the_capsule_station.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Where_are_the_beauty_of_the_capsule_station/Where_are_the_beauty_of_the_capsule_station_resized_thumbnail.jpg
 category: blog
 tags: 
 author: msk hn

@@ -5,7 +5,7 @@ title: Interface of light``:`` Dimming light
 subtitle: Dimming light that anymore can use immediately
 description: >-
 image: assets/img/posts/Interface_of_light__Dimming_light/Interface_of_light__Dimming_light.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Interface_of_light__Dimming_light/Interface_of_light__Dimming_light_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Nakanishi

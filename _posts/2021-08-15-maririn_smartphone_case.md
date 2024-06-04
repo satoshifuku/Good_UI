@@ -5,7 +5,7 @@ title: maririn smartphone case
 subtitle: Smartphone case with design and functionality
 description: >-
 image: assets/img/posts/maririn_smartphone_case/maririn_smartphone_case.JPG
-optimized_image: 
+optimized_image: assets/img/posts/maririn_smartphone_case/maririn_smartphone_case_resized_thumbnail.JPG
 category: blog
 tags: 
 author: maririn

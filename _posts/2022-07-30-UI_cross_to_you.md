@@ -5,7 +5,7 @@ title: UI cross to you
 subtitle: Hiding UI
 description: >-
 image: assets/img/posts/UI_cross_to_you/UI_cross_to_you.JPG
-optimized_image: 
+optimized_image: assets/img/posts/UI_cross_to_you/UI_cross_to_you_resized_thumbnail.JPG
 category: blog
 tags: 
 author: ピト

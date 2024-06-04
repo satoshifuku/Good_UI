@@ -5,7 +5,7 @@ title: UI hidden in sticky notes
 subtitle: ~ Let's observe from various angles. ~
 description: >-
 image: assets/img/posts/UI_hidden_in_sticky_notes/UI_hidden_in_sticky_notes.png
-optimized_image: 
+optimized_image: assets/img/posts/UI_hidden_in_sticky_notes/UI_hidden_in_sticky_notes_resized_thumbnail.png
 category: blog
 tags: 
 author: nemu

@@ -5,6 +5,7 @@ title: Simple stand light
 subtitle: Simple design
 description: >-
 image: assets/img/posts/Simple_stand_light/image1.jpg
+optimized_image: assets/img/posts/Simple_stand_light/image1_resized_thumbnail.jpg
 category: Post
 tags: 
   - ボタン一つの物理的制約

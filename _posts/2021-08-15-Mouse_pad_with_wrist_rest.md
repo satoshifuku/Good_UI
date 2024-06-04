@@ -5,7 +5,7 @@ title: Mouse pad with wrist rest
 subtitle: UI for protecting wrist health
 description: >-
 image: assets/img/posts/Mouse_pad_with_wrist_rest/Mouse_pad_with_wrist_rest.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Mouse_pad_with_wrist_rest/Mouse_pad_with_wrist_rest_resized_thumbnail.JPG
 category: blog
 tags: 
 author: MT

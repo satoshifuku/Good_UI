@@ -5,7 +5,7 @@ title: Kitchen bleach
 subtitle: Ingenuity for safe use
 description: >-
 image: assets/img/posts/Kitchen_bleach/Kitchen_bleach.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Kitchen_bleach/Kitchen_bleach_resized_thumbnail.jpg
 category: blog
 tags: 
 author: SouzoukouICT

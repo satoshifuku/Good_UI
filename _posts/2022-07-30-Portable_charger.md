@@ -5,7 +5,7 @@ title: Portable charger
 subtitle: The Quantum Magician
 description: >-
 image: assets/img/posts/Portable_charger/Portable_charger.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Portable_charger/Portable_charger_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Amago

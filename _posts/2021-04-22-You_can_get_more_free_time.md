@@ -5,6 +5,7 @@ title: You can get more free time
 subtitle: You can get more free time.
 description: >-
 image: assets/img/posts/You_can_get_more_free_time/image1.jpg
+optimized_image: assets/img/posts/You_can_get_more_free_time/image1_resized_thumbnail.jpg
 category: Post
 author: B5
 paginate: false

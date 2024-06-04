@@ -5,7 +5,7 @@ title: Pot handle
 subtitle: You can easily move the pot 
 description: >-
 image: assets/img/posts/Pot_handle/Pot_handle.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Pot_handle/Pot_handle_resized_thumbnail.jpg
 category: blog
 tags: 
 author: ryoma

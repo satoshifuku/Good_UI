@@ -5,7 +5,7 @@ title: Marine liner
 subtitle: Quilting makes things a great UI！
 description: >-
 image: assets/img/posts/Marine_liner/Marine_liner.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Marine_liner/Marine_liner_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Tiffany

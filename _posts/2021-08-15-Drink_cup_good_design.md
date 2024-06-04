@@ -5,7 +5,7 @@ title: Drink cup good design
 subtitle: There is a theory about ease of drinking.
 description: >-
 image: assets/img/posts/Drink_cup_good_design/Drink_cup_good_design.JPG
-optimized_image: 
+optimized_image: assets/img/posts/Drink_cup_good_design/Drink_cup_good_design_resized_thumbnail.JPG
 category: blog
 tags: 
 author: sato ken

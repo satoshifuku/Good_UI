@@ -5,7 +5,7 @@ title: Easy of use of fishing rod
 subtitle: Bait reel rod
 description: >-
 image: assets/img/posts/Easy_of_use_of_fishing_rod/Easy_of_use_of_fishing_rod.png
-optimized_image: 
+optimized_image: assets/img/posts/Easy_of_use_of_fishing_rod/Easy_of_use_of_fishing_rod_resized_thumbnail.png
 category: blog
 tags: 
 author: T

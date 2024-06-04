@@ -5,7 +5,7 @@ title: Containers of ketchup and mustard
 subtitle: Why is it upside down?
 description: >-
 image: assets/img/posts/Containers_of_ketchup_and_mustard/Containers_of_ketchup_and_mustard.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Containers_of_ketchup_and_mustard/Containers_of_ketchup_and_mustard_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Issei

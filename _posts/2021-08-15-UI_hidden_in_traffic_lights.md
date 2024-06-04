@@ -5,7 +5,7 @@ title: UI hidden in traffic lights
 subtitle: ~Let's observe from various angles.~
 description: >-
 image: assets/img/posts/UI_hidden_in_traffic_lights/UI_hidden_in_traffic_lights.png
-optimized_image: 
+optimized_image: assets/img/posts/UI_hidden_in_traffic_lights/UI_hidden_in_traffic_lights_resized_thumbnail.png
 category: blog
 tags: 
 author: nemu

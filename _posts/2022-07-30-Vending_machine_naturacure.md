@@ -5,7 +5,7 @@ title: Vending machine naturacure
 subtitle: UI changes recycling awareness
 description: >-
 image: assets/img/posts/Vending_machine_naturacure/Vending_machine_naturacure.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Vending_machine_naturacure/Vending_machine_naturacure_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Sushi

@@ -5,7 +5,7 @@ title:  clothes hanger
 subtitle: Convenient hanger
 description: >-
 image: assets/img/posts/clothes_hanger/clothes_hanger.jpg
-optimized_image: 
+optimized_image: assets/img/posts/clothes_hanger/clothes_hanger_resized_thumbnail.jpg
 category: blog
 tags: 
 author: T３

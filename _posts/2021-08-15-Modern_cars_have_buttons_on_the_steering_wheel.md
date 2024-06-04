@@ -5,7 +5,7 @@ title: Modern cars have buttons on the steering wheel
 subtitle: What effect does this button have on the driver?
 description: >-
 image: assets/img/posts/Modern_cars_have_buttons_on_the_steering_wheel/Modern_cars_have_buttons_on_the_steering_wheel.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Modern_cars_have_buttons_on_the_steering_wheel/Modern_cars_have_buttons_on_the_steering_wheel_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Syoma

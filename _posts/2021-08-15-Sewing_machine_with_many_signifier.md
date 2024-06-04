@@ -5,7 +5,7 @@ title: Sewing machine with many signifier
 subtitle: Easy-to-use sewing machine
 description: >-
 image: assets/img/posts/Sewing_machine_with_many_signifier/Sewing_machine_with_many_signifier.png
-optimized_image: 
+optimized_image: assets/img/posts/Sewing_machine_with_many_signifier/Sewing_machine_with_many_signifier_resized_thumbnail.png
 category: blog
 tags: 
 author: yume

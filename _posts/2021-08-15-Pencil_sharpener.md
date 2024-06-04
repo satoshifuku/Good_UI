@@ -5,7 +5,7 @@ title: Pencil sharpener
 subtitle: Pencil sharpener interface
 description: >-
 image: assets/img/posts/Pencil_sharpener/Pencil_sharpener.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Pencil_sharpener/Pencil_sharpener_resized_thumbnail.jpg
 category: blog
 tags: 
 author: YB

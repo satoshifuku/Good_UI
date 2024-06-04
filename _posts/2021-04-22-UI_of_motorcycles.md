@@ -5,6 +5,7 @@ title: UI of motorcycles
 subtitle: Easy to easy and understand than car
 description: >-
 image: assets/img/posts/UI_of_motorcycles/image1.png
+optimized_image: assets/img/posts/UI_of_motorcycles/image1_resized_thumbnail.png
 category: Post
 author: Shippitsu Taro
 paginate: false

@@ -5,7 +5,7 @@ title: Only at the beginning
 subtitle: The mark of cellophane tape
 description: >-
 image: assets/img/posts/Only_at_the_beginning/Only_at_the_beginning.jpg
-optimized_image: 
+optimized_image: assets/img/posts/Only_at_the_beginning/Only_at_the_beginning_resized_thumbnail.jpg
 category: blog
 tags: 
 author: Hagu

@@ -5,7 +5,7 @@ title: Physical constraints on the immediate surroundings
 subtitle: spray type
 description: >-
 image: assets/img/posts/Physical_constraints_on_the_immediate_surroundings/Physical_constraints_on_the_immediate_surroundings.png
-optimized_image: 
+optimized_image: assets/img/posts/Physical_constraints_on_the_immediate_surroundings/Physical_constraints_on_the_immediate_surroundings_resized_thumbnail.png
 category: blog
 tags: 
 author: ari
