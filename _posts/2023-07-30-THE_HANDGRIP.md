@@ -1,7 +1,7 @@
 ---
 date: 2023-08-01T 12:00:00
 layout: post
-title: The　Handgrip
+title: The Handgrip
 subtitle: Train your grip
 description: >-
 image: assets/img/posts/THE_HANDGRIP/THE_HANDGRIP.jpg
