@@ -4,8 +4,8 @@ layout: post
 title: The　Handgrip
 subtitle: Train your grip
 description: >-
-image: assets/img/posts/THE　HANDGRIP/THE　HANDGRIP.jpg
-optimized_image: assets/img/posts/THE　HANDGRIP/THE　HANDGRIP_resized_thumbnail.jpg
+image: assets/img/posts/THE_HANDGRIP/THE_HANDGRIP.jpg
+optimized_image: assets/img/posts/THE_HANDGRIP/THE_HANDGRIP_resized_thumbnail.jpg
 category: blog
 tags: 
 author: シュン
